@@ -1,0 +1,63 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Corrected POT file
+
+Version 1.1.1
+i) CSS Corrected.
+
+Version 1.1.2
+i) Changes as per wordpress standards
+	-- Theme URI
+	-- Front Page Handling
+	-- Proper Use of WordPress Function
+	-- WordPress Features first
+	-- Demo Content
+	-- Code
+	-- Template Hierarchy
+	-- Security
+	-- Upselling
+	-- Translation Ready
+	-- Deprecated Functions/Codes
+	-- Prefixing
+	-- Content Creation
+
+Version 1.1.3
+	-- Removed index.php get header condition.
+	-- Corrected comments.php file.
+	-- Removed js customizer.
+	-- Arranged css and js
+	-- Bined custom.js
+	-- Corrected archive.php
+	-- Placed navigation in single and image files.
+
+Version 1.1.4
+	-- Incorrect use of home.php
+	-- Multiple escaping issues
+	-- Removed Custom Headers support.
+	-- searchform.php - get_search_query() escaping removed. 
+	-- home.php - added wp_reset_postdata();
+	-- contact.php - you have untranslatable text strings 
+	-- Corected demo content.
+
+Version 1.1.5
+    -- Small changes.
+
+Version 1.1.6
+    -- Small changes.
+
+Version 1.1.7
+    -- Fixed text domain.
+
+Version 1.1.8
+    -- Changed the layout.
+    -- Removed depreceated functions.
+    -- added the static section from post.
+
+Version 1.1.9
+    -- Added translation ready tag.
+    -- Added rtl tag.
+
+Version 1.2.0
+    -- Added woocommerce in theme.

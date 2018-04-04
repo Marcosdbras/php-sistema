@@ -1,0 +1,16 @@
+2017-12-18T16:10:34+00:00 CRITICAL Uncaught exception 'MercadoPagoException' with message 'Failed connect to api.mercadopago.com:443; Connection timed out' in /home/storage/b/bf/3e/pinheiroortomed1/public_html/wp-content/plugins/woocommerce-mercadopago/includes/sdk/lib/mercadopago.php:885
+Stack trace:
+#0 /home/storage/b/bf/3e/pinheiroortomed1/public_html/wp-content/plugins/woocommerce-mercadopago/includes/sdk/lib/mercadopago.php(983): MPRestClient::exec(Array, '3.0.6')
+#1 /home/storage/b/bf/3e/pinheiroortomed1/public_html/wp-content/plugins/woocommerce-mercadopago/woocommerce-mercadopago.php(496): MPRestClient::get(Array, '3.0.6')
+#2 /home/storage/b/bf/3e/pinheiroortomed1/public_html/wp-content/plugins/woocommerce-mercadopago/woocommerce-mercadopago.php(113): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 /home/storage/b/bf/3e/pinheiroortomed1/public_html/wp-content/plugins/woocommerce-mercadopago/woocommerce-mercadopago.php(105): WC_Woo_Mercado_Pago_Module->__construct()
+#4 [internal function]: WC_Woo_Mercado_Pago_Module::init_mercado_pago_c
+
+2017-12-31T16:01:18+00:00 CRITICAL Uncaught exception 'MercadoPagoException' with message 'Failed connect to api.mercadopago.com:443; Connection timed out' in /home/storage/b/bf/3e/pinheiroortomed1/public_html/wp-content/plugins/woocommerce-mercadopago/includes/sdk/lib/mercadopago.php:885
+Stack trace:
+#0 /home/storage/b/bf/3e/pinheiroortomed1/public_html/wp-content/plugins/woocommerce-mercadopago/includes/sdk/lib/mercadopago.php(983): MPRestClient::exec(Array, '3.0.6')
+#1 /home/storage/b/bf/3e/pinheiroortomed1/public_html/wp-content/plugins/woocommerce-mercadopago/woocommerce-mercadopago.php(496): MPRestClient::get(Array, '3.0.6')
+#2 /home/storage/b/bf/3e/pinheiroortomed1/public_html/wp-content/plugins/woocommerce-mercadopago/woocommerce-mercadopago.php(113): WC_Woo_Mercado_Pago_Module::get_categories()
+#3 /home/storage/b/bf/3e/pinheiroortomed1/public_html/wp-content/plugins/woocommerce-mercadopago/woocommerce-mercadopago.php(105): WC_Woo_Mercado_Pago_Module->__construct()
+#4 [internal function]: WC_Woo_Mercado_Pago_Module::init_mercado_pago_c
+

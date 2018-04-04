@@ -1,0 +1,122 @@
+12-15-2017 @ 19:40:27 - Requesting token for order 22 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[ORTO-22]]></reference>
+  <sender>
+    <email><![CDATA[marcosbras@hotmail.com]]></email>
+    <name><![CDATA[Marcos Brás]]></name>
+    <phone>
+      <areaCode>11</areaCode>
+      <number>963930108</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Antonio Pereira simões, 611]]></street>
+      <postalCode>03808050</postalCode>
+      <city><![CDATA[São Paulo]]></city>
+      <state>SP</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Cadeira de Roda Elétrica]]></description>
+      <amount>3450.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[http://pinheiroortomed.com.br/finalizar-compra/order-received/22?key=wc_order_5a34414ab68ac]]></redirectURL>
+  <notificationURL><![CDATA[http://pinheiroortomed.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+12-15-2017 @ 19:40:27 - PagSeguro Payment Token created with success! The Token is: E90A8274EAEABD3224787F84F6BECC8C
+12-27-2017 @ 15:34:45 - Requesting token for order 129 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[ORTO-129]]></reference>
+  <sender>
+    <email><![CDATA[marcosbras@hotmail.com]]></email>
+    <name><![CDATA[Marcos Brás]]></name>
+    <phone>
+      <areaCode>11</areaCode>
+      <number>963930108</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Antonio Pereira simões, 611]]></street>
+      <postalCode>03808050</postalCode>
+      <city><![CDATA[São Paulo]]></city>
+      <state>SP</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Muletas ajustável Fixa indaiá o Par]]></description>
+      <amount>70.00</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>2</id>
+      <description><![CDATA[Cadeira de Banho 202 Aluguel sob consulta ouCompre este produto agora]]></description>
+      <amount>220.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[http://pinheiroortomed.com.br/finalizar-compra/order-received/129?key=wc_order_5a43d9b4de086]]></redirectURL>
+  <notificationURL><![CDATA[http://pinheiroortomed.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+12-27-2017 @ 15:34:46 - PagSeguro Payment Token created with success! The Token is: 45CD3662979701C55407EFA3C0FAA12D
+01-14-2018 @ 19:58:48 - Requesting token for order 403 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[ORTO-403]]></reference>
+  <sender>
+    <email><![CDATA[marcosdbras@gmail.com]]></email>
+    <name><![CDATA[Marcos Bras]]></name>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Antônio Pereira Simões, 611]]></street>
+      <postalCode>03808050</postalCode>
+      <city><![CDATA[Ermelino Matarazzo]]></city>
+      <state>SP</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Uripen]]></description>
+      <amount>3.00</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>2</id>
+      <description><![CDATA[MÁSCARA CIRÚRGICA PROTDESC BRANCA COM ELÁSTICO]]></description>
+      <amount>24.99</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[http://pinheiroortomed.com.br/finalizar-compra/order-received/403?key=wc_order_5a5bd29775b6e]]></redirectURL>
+  <notificationURL><![CDATA[http://pinheiroortomed.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+01-14-2018 @ 19:58:49 - PagSeguro Payment Token created with success! The Token is: 784B88194949EB9BB4DE2FB27E7ECA55

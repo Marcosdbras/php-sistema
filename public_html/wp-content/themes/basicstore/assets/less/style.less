@@ -1,0 +1,512 @@
+// out: ../css/theme.css, sourcemap: false, compress: false
+
+
+/**
+ *
+ * Main Theme styles
+ *
+ */
+
+
+/*=============================================>>>>>
+=  Basic scaffolding =
+===============================================>>>>>*/
+
+// Load SourceMap
+/*@ sourceMappingURL=theme.css.map */
+
+// Import Bootstrap framework (LESS)
+@import "/bootstrap/bootstrap.less";
+
+// Change Bootstrap icons path
+//@icon-font-path: "assets/fonts/";
+
+//** Point at which the navbar becomes uncollapsed.
+@grid-float-breakpoint: @screen-md-min;
+
+// Define our own custom LESS variables
+@brand-secondary: #333;
+
+// Import Theme LESS files
+@import "select2-bootstrap.less";
+@import "woocommerce.less";
+
+
+
+/*=============================================>>>>>
+= General =
+===============================================>>>>>*/
+
+html {
+  height: 100vh;
+}
+
+body {
+  padding-top: @navbar-height;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+/*=============================================>>>>>
+= Layout =
+===============================================>>>>>*/
+
+// Site Header
+#site-header {
+
+  .navbar-header {
+
+    .nav-brand-img {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+    .navbar-toggle {
+
+      .icon-bar {
+
+        &.has-cart-items {
+          background: @brand-primary;
+        }
+
+      }
+
+    }
+
+  }
+
+  // Cart menu item
+  .cart-badge-wrapper {
+
+    .badge {
+      background: @brand-primary;
+    }
+
+  }
+
+}
+
+// Site Jumbotron
+#site-jumbotron {
+  margin-top: -@line-height-computed*2;
+}
+
+// Site Content
+#site-content {
+  padding-top: @line-height-computed*2;
+  padding-bottom: @line-height-computed*2;
+  flex: 1;
+}
+
+// Sidebar
+#secondary {
+
+  .widget {
+    .well;
+
+    .widget-title {
+      margin-top: 5px;
+    }
+
+  }
+
+}
+
+// Site Footer
+#site-footer {
+  background: @brand-secondary;
+  color:fade(@body-bg,75%);
+  padding-top: @line-height-computed*2;
+  padding-bottom: @line-height-computed;
+
+  // Site Copyright
+  #site-copyright {
+    padding-top: @line-height-computed/2;
+    font-style: italic;
+
+    .sep {
+      padding-left: 5px;
+      padding-right: 5px;
+      color: fade(@body-bg,25%);
+    }
+  }
+
+  hr {
+    border-top: 1px dashed fade(@body-bg,25%);
+  }
+
+  .widget {
+
+    .widget-title {
+      color: @body-bg;
+    }
+
+  }
+
+  a {
+    color: lighten(@link-color,20%);
+  }
+
+}
+
+
+
+/*=============================================>>>>>
+= Extras =
+===============================================>>>>>*/
+
+// -  Required helper for form fields
+.required,
+abbr.required {
+  color: @brand-danger;
+  border: none;
+  text-decoration: none;
+  vertical-align: middle;
+  line-height: 1;
+  font-weight: bold;
+  font-size: @font-size-small;
+}
+
+// Search form
+form.search-form {
+  position: relative;
+  display: inline-block;
+
+  .btn {
+    position: absolute;
+    top: 1px;
+    right: -2px;
+  }
+
+  // Search form inside navbar
+  &.navbar-form {
+
+    @media (max-width: @grid-float-breakpoint-max) {
+      display: block;
+    }
+
+    .form-control {
+
+      @media (max-width: @grid-float-breakpoint-max) {
+        width: 100%;
+      }
+
+    }
+
+    .btn {
+      position: absolute;
+      top: 1px;
+      right: 11px;
+
+      @media (max-width: @grid-float-breakpoint-max) {
+        top: 11px;
+      }
+
+    }
+
+  }
+
+}
+
+// Comments
+.comments-area {
+
+  .comment-list {
+
+    .comment {
+      .panel;
+      .panel-default;
+
+      .comment-body {
+        .panel-body;
+
+        .comment-meta {
+          margin-bottom: @line-height-computed/2;
+
+          .comment-author {
+
+            .avatar {
+              .img-circle;
+              margin-right: 5px;
+            }
+
+          }
+
+          .comment-metadata {
+            font-style: italic;
+            margin-top: @line-height-computed/2;
+            font-size: @font-size-small;
+
+            .edit-link {
+              font-weight: bold;
+              margin-left: 10px;
+            }
+
+          }
+
+        }
+
+        .comment-content {
+          margin-bottom: @line-height-computed/2;
+
+          img {
+            .img-responsive;
+          }
+        }
+
+        .reply {
+
+          .comment-reply-link {
+            .btn;
+            .btn-sm;
+            .btn-default;
+          }
+
+        }
+
+      }
+
+      .comment-respond {
+        margin: 15px;
+      }
+
+      &.comment-author-admin {
+        border-color: @brand-primary;
+      }
+
+    }
+
+    .children {
+      list-style: none;
+      padding-right: 40px;
+    }
+
+  }
+
+  .comment-respond {
+    .well;
+
+    .comment-reply-title {
+      margin-top: 5px;
+
+      #cancel-comment-reply-link {
+        .btn;
+        .btn-sm;
+        .btn-warning;
+      }
+
+    }
+
+    .comment-notes {
+      margin-bottom: @line-height-computed;
+      .text-muted;
+    }
+
+    .logged-in-as {
+      margin-bottom: @line-height-computed;
+    }
+
+  }
+
+}
+
+
+// Post navigation
+.post-navigation {
+
+  .nav-links {
+    overflow: hidden;
+    margin-bottom: @line-height-computed;
+
+    .nav-previous,
+    .nav-next{
+
+
+      a {
+        display: inline-block;
+        padding: 5px 14px;
+        border: 1px solid #ddd;
+        border-radius: 15px;
+
+        &:hover {
+          text-decoration: none;
+          background-color: @gray-lighter;
+        }
+
+      }
+
+    }
+
+    .nav-previous {
+      .pull-left;
+    }
+
+    .nav-next {
+      .pull-right;
+    }
+
+  }
+
+}
+
+
+// Responsive Nav Tabs for my account page
+.responsive-tabs.nav-tabs {
+  position: relative;
+
+  @media(min-width: @screen-md-min) {
+    border-bottom: 1px solid #ddd;
+  }
+
+  span.glyphicon {
+    position: absolute;
+    /* top: 14px; */
+    right: 0;
+    width: 45px;
+    height: 100%;
+    text-align: center;
+    line-height: 3em;
+    cursor: pointer;
+
+    &.glyphicon-triangle-top {
+      display: none;
+    }
+
+    @media(min-width: @screen-md-min) {
+      display: none;
+    }
+
+  }
+
+  > li {
+    display: none;
+    float: none;
+    text-align: center;
+
+    &:last-of-type > a {
+      margin-right: 0;
+    }
+
+    > a {
+      margin-right: 0;
+      background: #fff;
+      border: 1px solid #DDDDDD;
+
+      @media(min-width: @screen-md-min) {
+        margin-right: 7px;
+      }
+    }
+
+    &.active {
+      display: block;
+
+      a {
+
+        @media(min-width: @screen-md-min) {
+          border-bottom-color: transparent;
+        }
+
+        border: 1px solid #DDDDDD;
+        border-radius: 2px;
+      }
+
+    }
+
+    @media(min-width: @screen-md-min) {
+      display: block;
+      float: left;
+    }
+
+  }
+
+  &.open {
+
+    span.glyphicon {
+
+      &.glyphicon-triangle-top {
+        display: block;
+
+        @media(min-width: @screen-md-min) {
+          display: none;
+        }
+
+      }
+
+      &.glyphicon-triangle-bottom {
+        display: none;
+      }
+
+    }
+
+    > li {
+      display: block;
+
+      a {
+        border-radius: 0;
+      }
+
+      &:first-of-type a {
+        border-radius: 2px 2px 0 0;
+      }
+      &:last-of-type a {
+        border-radius: 0 0 2px 2px;
+      }
+    }
+  }
+}
+
+// Simple responsive nav tabs
+.nav-tabs-responsive {
+  overflow: auto;
+
+  .nav-tabs {
+    min-width: @screen-sm-min;
+  }
+
+}
+
+// Fix Panels
+.panel-title > a {
+  display: block;
+}
+
+// helper classs for tables
+.vert-align-middle > thead > tr > th,
+.vert-align-middle > tbody > tr > th,
+.vert-align-middle > tfoot > tr > th,
+.vert-align-middle > thead > tr > td,
+.vert-align-middle > tbody > tr > td,
+.vert-align-middle > tfoot > tr > td {
+    vertical-align: middle;
+}
+
+
+// if admin bar is enabled
+body.admin-bar {
+
+  #site-header {
+    .navbar-fixed-top {
+      top: 32px;
+    }
+  }
+}
+
+
+// Password protected form
+.post-password-form {
+  .form-inline;
+
+  label {
+    margin-bottom: 4px;
+  }
+
+  input[type="password"] {
+    .form-control
+  }
+  input[type="submit"] {
+    .btn;
+    .btn-primary;
+  }
+}

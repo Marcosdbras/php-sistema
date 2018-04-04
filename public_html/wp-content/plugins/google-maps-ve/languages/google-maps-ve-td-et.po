@@ -1,0 +1,964 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Maps Ve\n"
+"POT-Creation-Date: 2015-04-04 21:41+0200\n"
+"PO-Revision-Date: 2015-04-06 11:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ./..\n"
+"X-Poedit-SearchPath-1: ../../google-maps-ve-pro\n"
+
+#: ../../google-maps-ve-pro/includes/app.php:37 ../includes/app.php:38
+msgctxt "post type general name"
+msgid "Google Maps"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/app.php:38 ../includes/app.php:39
+msgctxt "post type singular name"
+msgid "Google Maps"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/app.php:39 ../includes/app.php:40
+msgctxt "Google Map"
+msgid "Add new map"
+msgstr "Lisa uus kaart"
+
+#: ../../google-maps-ve-pro/includes/app.php:40 ../includes/app.php:41
+msgid "Add new Google Map"
+msgstr "Lisa uus kaart"
+
+#: ../../google-maps-ve-pro/includes/app.php:41 ../includes/app.php:42
+msgid "Edit Google Map"
+msgstr "Muuda kaarti"
+
+#: ../../google-maps-ve-pro/includes/app.php:42 ../includes/app.php:43
+msgid "Add Google Map"
+msgstr "Lisa uus kaart"
+
+#: ../../google-maps-ve-pro/includes/app.php:43 ../includes/app.php:44
+msgid "List of maps"
+msgstr "Kaardid"
+
+#: ../../google-maps-ve-pro/includes/app.php:44 ../includes/app.php:45
+msgid "View maps"
+msgstr "Vaata kaarte"
+
+#: ../../google-maps-ve-pro/includes/app.php:45 ../includes/app.php:46
+msgid "Search maps"
+msgstr "Otsi kaarte"
+
+#: ../../google-maps-ve-pro/includes/app.php:46 ../includes/app.php:47
+msgid "Maps not found"
+msgstr "Kaarte ei leitud"
+
+#: ../../google-maps-ve-pro/includes/app.php:47 ../includes/app.php:48
+msgid "Maps not found in trash"
+msgstr "Prügikastis kaardid puuduvad"
+
+#: ../../google-maps-ve-pro/includes/app.php:70 ../includes/app.php:71
+msgctxt "post type general name"
+msgid "Google Maps marker"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/app.php:71 ../includes/app.php:72
+msgctxt "post type singular name"
+msgid "Google Maps marker"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/app.php:72 ../includes/app.php:73
+msgctxt "Google Map marker"
+msgid "Add new"
+msgstr "Lisa uus"
+
+#: ../../google-maps-ve-pro/includes/app.php:73 ../includes/app.php:74
+msgid "Add new Google Map marker"
+msgstr "Lisa uus punkt kaardile"
+
+#: ../../google-maps-ve-pro/includes/app.php:74 ../includes/app.php:75
+msgid "Edit Google Map marker"
+msgstr "Muuda punkti kaardil"
+
+#: ../../google-maps-ve-pro/includes/app.php:75 ../includes/app.php:76
+msgid "Add Google Map marker"
+msgstr "Lisa uus punkt kaardile"
+
+#: ../../google-maps-ve-pro/includes/app.php:76 ../includes/app.php:77
+msgid "List of all markers"
+msgstr "Kaardipunktide nimekiri"
+
+#: ../../google-maps-ve-pro/includes/app.php:77 ../includes/app.php:78
+msgid "View markers"
+msgstr "Vaata kaardi punkte"
+
+#: ../../google-maps-ve-pro/includes/app.php:78 ../includes/app.php:79
+msgid "Search markers"
+msgstr "Otsi kaardi punkte"
+
+#: ../../google-maps-ve-pro/includes/app.php:79 ../includes/app.php:80
+msgid "Markers not found"
+msgstr "Kaardi punkte ei leitud"
+
+#: ../../google-maps-ve-pro/includes/app.php:80 ../includes/app.php:81
+msgid "Markers not found in trash"
+msgstr "Prügikastist ei leitud kaardi punkte"
+
+#: ../../google-maps-ve-pro/includes/app.php:109 ../includes/app.php:110
+msgctxt "post type general name"
+msgid "Google Maps polygon"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/app.php:110 ../includes/app.php:111
+msgctxt "post type singular name"
+msgid "Google Maps polygon"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/app.php:111 ../includes/app.php:112
+msgctxt "Google Map polygon"
+msgid "Add new"
+msgstr "Lisa uus"
+
+#: ../../google-maps-ve-pro/includes/app.php:112 ../includes/app.php:113
+msgid "Add new Google Map polygon"
+msgstr "Lisa uus polügoon"
+
+#: ../../google-maps-ve-pro/includes/app.php:113 ../includes/app.php:114
+msgid "Edit Google Map polygon"
+msgstr "Muuda polügooni"
+
+#: ../../google-maps-ve-pro/includes/app.php:114 ../includes/app.php:115
+msgid "Add Google Map polygon"
+msgstr "Lisa uus polügoon"
+
+#: ../../google-maps-ve-pro/includes/app.php:115 ../includes/app.php:116
+msgid "List of all polygons"
+msgstr "Polügoonide nimekiri"
+
+#: ../../google-maps-ve-pro/includes/app.php:116 ../includes/app.php:117
+msgid "View polygons"
+msgstr "Vaata polügoone"
+
+#: ../../google-maps-ve-pro/includes/app.php:117 ../includes/app.php:118
+msgid "Search polygons"
+msgstr "Otsi polügoone"
+
+#: ../../google-maps-ve-pro/includes/app.php:118 ../includes/app.php:119
+msgid "Polygons not found"
+msgstr "Polügoone ei leitud"
+
+#: ../../google-maps-ve-pro/includes/app.php:119 ../includes/app.php:120
+msgid "Polygons not found in trash"
+msgstr "Prügikastis puuduvad polügoonid"
+
+#: ../../google-maps-ve-pro/includes/app.php:143 ../includes/app.php:144
+msgctxt "post type general name"
+msgid "Google Maps polyline"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/app.php:144 ../includes/app.php:145
+msgctxt "post type singular name"
+msgid "Google Maps polyline"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/app.php:145 ../includes/app.php:146
+msgctxt "Google Map polyline"
+msgid "Add new"
+msgstr "Lisa uus"
+
+#: ../../google-maps-ve-pro/includes/app.php:146 ../includes/app.php:147
+msgid "Add new Google Map polyline"
+msgstr "Lisa uus liin"
+
+#: ../../google-maps-ve-pro/includes/app.php:147 ../includes/app.php:148
+msgid "Edit Google Map polyline"
+msgstr "Muuda liini"
+
+#: ../../google-maps-ve-pro/includes/app.php:148 ../includes/app.php:149
+msgid "Add Google Map polyline"
+msgstr "Lisa uus liin"
+
+#: ../../google-maps-ve-pro/includes/app.php:149 ../includes/app.php:150
+msgid "List of all polylines"
+msgstr "Liinide nimekiri"
+
+#: ../../google-maps-ve-pro/includes/app.php:150 ../includes/app.php:151
+msgid "View polylines"
+msgstr "Vaata liine"
+
+#: ../../google-maps-ve-pro/includes/app.php:151 ../includes/app.php:152
+msgid "Search polylines"
+msgstr "Otsi liine"
+
+#: ../../google-maps-ve-pro/includes/app.php:152 ../includes/app.php:153
+msgid "Polylines not found"
+msgstr "Liine ei leitud"
+
+#: ../../google-maps-ve-pro/includes/app.php:153 ../includes/app.php:154
+msgid "Polylines not found in trash"
+msgstr "Prügikastis puuduvad liinid"
+
+#: ../../google-maps-ve-pro/includes/app.php:186 ../includes/app.php:187
+msgctxt "taxonomy general name"
+msgid "Marker parameters"
+msgstr "Kaardipunkti parameetrid"
+
+#: ../../google-maps-ve-pro/includes/app.php:187 ../includes/app.php:188
+msgctxt "taxonomy singular name"
+msgid "Marker parameter"
+msgstr "Kaardipunkti parameeter"
+
+#: ../../google-maps-ve-pro/includes/app.php:188 ../includes/app.php:189
+msgid "Search marker parameters"
+msgstr "Otsi kaardipunkti parameetreid"
+
+#: ../../google-maps-ve-pro/includes/app.php:189 ../includes/app.php:190
+msgid "All marker parameters"
+msgstr "Kõik kaardipunktide parameetrid"
+
+#: ../../google-maps-ve-pro/includes/app.php:190 ../includes/app.php:191
+msgid "Edit parameter"
+msgstr "Muuda parameetrit"
+
+#: ../../google-maps-ve-pro/includes/app.php:191 ../includes/app.php:192
+msgid "Update parameter"
+msgstr "Uuenda parameetrit"
+
+#: ../../google-maps-ve-pro/includes/app.php:192 ../includes/app.php:193
+msgid "Add New parameter"
+msgstr "Lisa uus parameeter"
+
+#: ../../google-maps-ve-pro/includes/app.php:193
+#: ../../google-maps-ve-pro/includes/view.php:122
+#: ../../google-maps-ve-pro/includes/view.php:831 ../includes/app.php:194
+#: ../includes/view.php:122 ../includes/view.php:695
+msgid "Marker parameters"
+msgstr "Kaardipunktide parameetrid"
+
+#: ../../google-maps-ve-pro/includes/app.php:241
+#: ../../google-maps-ve-pro/includes/app.php:322
+#: ../../google-maps-ve-pro/includes/app.php:349
+#: ../../google-maps-ve-pro/includes/app.php:418
+#: ../../google-maps-ve-pro/includes/app.php:484
+#: ../../google-maps-ve-pro/includes/app.php:544
+msgid "See more"
+msgstr "Vaata lähemalt"
+
+#: ../../google-maps-ve-pro/includes/app.php:586 ../includes/app.php:417
+msgid "Map settings"
+msgstr "Kaardi seaded"
+
+#: ../../google-maps-ve-pro/includes/app.php:594
+#: ../../google-maps-ve-pro/includes/view.php:1106 ../includes/app.php:425
+#: ../includes/view.php:974
+msgid "Polygon settings"
+msgstr "Polügooni seaded"
+
+#: ../../google-maps-ve-pro/includes/app.php:601
+#: ../../google-maps-ve-pro/includes/app.php:615
+#: ../../google-maps-ve-pro/includes/app.php:668
+#: ../../google-maps-ve-pro/includes/app.php:680
+#: ../../google-maps-ve-pro/includes/view.php:1151
+#: ../../google-maps-ve-pro/includes/view.php:1619 ../includes/app.php:432
+#: ../includes/app.php:446 ../includes/app.php:499 ../includes/app.php:511
+#: ../includes/view.php:1019 ../includes/view.php:1460
+msgid "Map"
+msgstr "Kaart"
+
+#: ../../google-maps-ve-pro/includes/app.php:608
+#: ../../google-maps-ve-pro/includes/view.php:1584 ../includes/app.php:439
+#: ../includes/view.php:1425
+msgid "Polyline settings"
+msgstr "Liini seaded"
+
+#: ../../google-maps-ve-pro/includes/app.php:626 ../includes/app.php:457
+msgid "Your map"
+msgstr "Sinu kaart"
+
+#: ../../google-maps-ve-pro/includes/app.php:633 ../includes/app.php:464
+msgid "Add new marker"
+msgstr "Lisa uus kaardipunkt"
+
+#: ../../google-maps-ve-pro/includes/app.php:640 ../includes/app.php:471
+msgid "List of added markers"
+msgstr "Lisatud kaardipunktide nimekiri"
+
+#: ../../google-maps-ve-pro/includes/app.php:647 ../includes/app.php:478
+msgid "List of added polygons"
+msgstr "Lisatud polügoonide nimekiri"
+
+#: ../../google-maps-ve-pro/includes/app.php:654 ../includes/app.php:485
+msgid "List of added polylines"
+msgstr "Lisatud liinide nimekiri"
+
+#: ../../google-maps-ve-pro/includes/app.php:661 ../includes/app.php:492
+msgid "Marker settings"
+msgstr "Kaardipunkti seaded"
+
+#: ../../google-maps-ve-pro/includes/app.php:679
+#: ../../google-maps-ve-pro/includes/view.php:127 ../includes/app.php:510
+#: ../includes/view.php:127
+msgid "Title"
+msgstr "Pealkiri"
+
+#: ../../google-maps-ve-pro/includes/app.php:681 ../includes/app.php:512
+msgid "Date"
+msgstr "Kuupäev"
+
+#: ../../google-maps-ve-pro/includes/app.php:791
+msgid "Get directions from here"
+msgstr "Juhised algusega siit"
+
+#: ../../google-maps-ve-pro/includes/app.php:792
+msgid "Get directions to here"
+msgstr "Juhised lõpuga siin"
+
+#: ../../google-maps-ve-pro/includes/app.php:1070
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:118
+msgid "Travel mode"
+msgstr "Transpordi viis"
+
+#: ../../google-maps-ve-pro/includes/app.php:1073
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:134
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:182
+msgid "Driving"
+msgstr "Auto"
+
+#: ../../google-maps-ve-pro/includes/app.php:1074
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:138
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:186
+msgid "Walking"
+msgstr "Jalgsi"
+
+#: ../../google-maps-ve-pro/includes/app.php:1075
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:142
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:190
+msgid "Bicycling"
+msgstr "Jalgratas"
+
+#: ../../google-maps-ve-pro/includes/app.php:1076
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:146
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:194
+msgid "Public transport"
+msgstr "Ühistransport"
+
+#: ../../google-maps-ve-pro/includes/app.php:1081
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:122
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:169
+msgid "Directions from"
+msgstr "Alguspunkt"
+
+#: ../../google-maps-ve-pro/includes/app.php:1085
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:126
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:173
+msgid "Directions to"
+msgstr "Lõpp-punkt"
+
+#: ../../google-maps-ve-pro/includes/app.php:1089
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:130
+msgid "Get directions"
+msgstr "Hangi juhised"
+
+#: ../../google-maps-ve-pro/includes/app.php:1121
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:84
+msgid "Directions not found"
+msgstr "Juhiseid ei leitud"
+
+#: ../../google-maps-ve-pro/includes/defs.php:36
+msgid "Table"
+msgstr "Tabel"
+
+#: ../../google-maps-ve-pro/includes/defs.php:37
+msgid "Advanced table"
+msgstr "Detailsem tabel"
+
+#: ../../google-maps-ve-pro/includes/defs.php:38
+msgid "Carousel"
+msgstr "Karussell"
+
+#: ../../google-maps-ve-pro/includes/defs.php:62
+msgid "Filter"
+msgstr "Filtreerimine"
+
+#: ../../google-maps-ve-pro/includes/defs.php:63
+msgid "Markers list"
+msgstr "Kaardipunktide nimekiri"
+
+#: ../../google-maps-ve-pro/includes/defs.php:64
+msgid "Directions"
+msgstr "Teekonna juhhised"
+
+#: ../../google-maps-ve-pro/includes/defs.php:77 ../includes/defs.php:36
+msgid "Roadmap"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/defs.php:78 ../includes/defs.php:37
+msgid "Satellite"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/defs.php:79 ../includes/defs.php:38
+msgid "Hybrid"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/defs.php:80 ../includes/defs.php:39
+msgid "Terrain"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/defs.php:87 ../includes/defs.php:46
+msgid "px"
+msgstr "px"
+
+#: ../../google-maps-ve-pro/includes/defs.php:88 ../includes/defs.php:47
+msgid "%"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/defs.php:95 ../includes/defs.php:54
+msgid "No"
+msgstr "Ei"
+
+#: ../../google-maps-ve-pro/includes/defs.php:96 ../includes/defs.php:55
+msgid "Yes"
+msgstr "Jah"
+
+#: ../../google-maps-ve-pro/includes/defs.php:103 ../includes/defs.php:62
+msgid "Not enabled"
+msgstr "Mitteaktiivne"
+
+#: ../../google-maps-ve-pro/includes/defs.php:104 ../includes/defs.php:63
+msgid "Default closed"
+msgstr "Vaikimisi suletud"
+
+#: ../../google-maps-ve-pro/includes/defs.php:105 ../includes/defs.php:64
+msgid "Default open"
+msgstr "Vaikimisi avatud"
+
+#: ../../google-maps-ve-pro/includes/defs.php:112 ../includes/defs.php:71
+msgid "None"
+msgstr "Puudub"
+
+#: ../../google-maps-ve-pro/includes/defs.php:113 ../includes/defs.php:72
+msgid "Drop"
+msgstr "Langeb"
+
+#: ../../google-maps-ve-pro/includes/defs.php:114 ../includes/defs.php:73
+msgid "Bounce"
+msgstr "Hüppab"
+
+#: ../../google-maps-ve-pro/includes/view.php:26 ../includes/view.php:26
+msgid "Fill map coordinates by current position"
+msgstr "Määra kaardi keskpunkt kuvatud asukoha järgi"
+
+#: ../../google-maps-ve-pro/includes/view.php:113 ../includes/view.php:113
+msgid "Right click on map to add new marker."
+msgstr "Uue kaardipunkti lisamiseks tee hiirega parem klikk kaardil."
+
+#: ../../google-maps-ve-pro/includes/view.php:114 ../includes/view.php:114
+msgid ""
+"You can set infowindow image after saving marker. Markers are editable by "
+"clicking \"Edit\" link from markers table."
+msgstr ""
+"Infoakna pilt on võimalik lisada peale kaardipunkti salvestamist. "
+"Kaardipunkti on võimalik muuta vajutades \"Muuda\" nuppu kaardipunktide "
+"nimekirjast."
+
+#: ../../google-maps-ve-pro/includes/view.php:115 ../includes/view.php:115
+msgid "You can not save marker without latitude and longitude!"
+msgstr "Kaardipunkti ei saa lisada ilma pikkus ja laiuskraadideta."
+
+#: ../../google-maps-ve-pro/includes/view.php:119
+#: ../../google-maps-ve-pro/includes/view.php:297
+#: ../../google-maps-ve-pro/includes/view.php:828 ../includes/view.php:119
+#: ../includes/view.php:301 ../includes/view.php:692
+msgid "General settings"
+msgstr "Üldised seaded"
+
+#: ../../google-maps-ve-pro/includes/view.php:120
+#: ../../google-maps-ve-pro/includes/view.php:829
+#: ../../google-maps-ve-pro/includes/view.php:1107
+#: ../../google-maps-ve-pro/includes/view.php:1585 ../includes/view.php:120
+#: ../includes/view.php:693 ../includes/view.php:975
+#: ../includes/view.php:1426
+msgid "Infowindow settings"
+msgstr "Infoakna seaded"
+
+#: ../../google-maps-ve-pro/includes/view.php:121
+#: ../../google-maps-ve-pro/includes/view.php:830 ../includes/view.php:121
+#: ../includes/view.php:694
+msgid "Marker icon"
+msgstr "Kaardipunkti ikoon"
+
+#: ../../google-maps-ve-pro/includes/view.php:130
+#: ../../google-maps-ve-pro/includes/view.php:619
+#: ../../google-maps-ve-pro/includes/view.php:839 ../includes/view.php:130
+#: ../includes/view.php:549 ../includes/view.php:703
+msgid "Address"
+msgstr "Aadress"
+
+#: ../../google-maps-ve-pro/includes/view.php:131
+#: ../../google-maps-ve-pro/includes/view.php:840 ../includes/view.php:131
+#: ../includes/view.php:704
+msgid "Get coordinates from address"
+msgstr "Leia koordinaadid aadressi järgi"
+
+#: ../../google-maps-ve-pro/includes/view.php:134
+#: ../../google-maps-ve-pro/includes/view.php:836
+#: ../../google-maps-ve-pro/includes/view.php:1113
+#: ../../google-maps-ve-pro/includes/view.php:1591 ../includes/view.php:134
+#: ../includes/view.php:700 ../includes/view.php:981
+#: ../includes/view.php:1432
+msgid "Description"
+msgstr "Kirjeldus"
+
+#: ../../google-maps-ve-pro/includes/view.php:137
+#: ../../google-maps-ve-pro/includes/view.php:844 ../includes/view.php:137
+#: ../includes/view.php:708
+msgid "Latitude"
+msgstr "Laiuskraad"
+
+#: ../../google-maps-ve-pro/includes/view.php:138
+#: ../../google-maps-ve-pro/includes/view.php:845 ../includes/view.php:138
+#: ../includes/view.php:709
+msgid "Show marker on map"
+msgstr "Kuva kaardipunkt kaardil"
+
+#: ../../google-maps-ve-pro/includes/view.php:142
+#: ../../google-maps-ve-pro/includes/view.php:857 ../includes/view.php:142
+#: ../includes/view.php:721
+msgid "Longitude"
+msgstr "Pikkuskraad"
+
+#: ../../google-maps-ve-pro/includes/view.php:146
+#: ../../google-maps-ve-pro/includes/view.php:848 ../includes/view.php:146
+#: ../includes/view.php:712
+msgid "Animation"
+msgstr "Animatsioon"
+
+#: ../../google-maps-ve-pro/includes/view.php:160
+#: ../../google-maps-ve-pro/includes/view.php:865
+#: ../../google-maps-ve-pro/includes/view.php:1171
+#: ../../google-maps-ve-pro/includes/view.php:1639 ../includes/view.php:161
+#: ../includes/view.php:730 ../includes/view.php:1040
+#: ../includes/view.php:1481
+msgid "InfoWindow"
+msgstr "Infoaken"
+
+#: ../../google-maps-ve-pro/includes/view.php:171
+#: ../../google-maps-ve-pro/includes/view.php:876
+#: ../../google-maps-ve-pro/includes/view.php:1182
+#: ../../google-maps-ve-pro/includes/view.php:1650 ../includes/view.php:172
+#: ../includes/view.php:741 ../includes/view.php:1051
+#: ../includes/view.php:1492
+msgid "Window width"
+msgstr "Infoakna laius"
+
+#: ../../google-maps-ve-pro/includes/view.php:172
+#: ../../google-maps-ve-pro/includes/view.php:196
+#: ../../google-maps-ve-pro/includes/view.php:202
+#: ../../google-maps-ve-pro/includes/view.php:877
+#: ../../google-maps-ve-pro/includes/view.php:901
+#: ../../google-maps-ve-pro/includes/view.php:907
+#: ../../google-maps-ve-pro/includes/view.php:1183
+#: ../../google-maps-ve-pro/includes/view.php:1207
+#: ../../google-maps-ve-pro/includes/view.php:1213
+#: ../../google-maps-ve-pro/includes/view.php:1651
+#: ../../google-maps-ve-pro/includes/view.php:1675
+#: ../../google-maps-ve-pro/includes/view.php:1681 ../includes/view.php:173
+#: ../includes/view.php:197 ../includes/view.php:203
+#: ../includes/view.php:742 ../includes/view.php:766
+#: ../includes/view.php:772 ../includes/view.php:1052
+#: ../includes/view.php:1076 ../includes/view.php:1082
+#: ../includes/view.php:1493 ../includes/view.php:1517
+#: ../includes/view.php:1523
+msgid "Leave empty for default"
+msgstr "Vaikimisi väärtuseks jäta tühjaks"
+
+#: ../../google-maps-ve-pro/includes/view.php:177
+#: ../../google-maps-ve-pro/includes/view.php:882
+#: ../../google-maps-ve-pro/includes/view.php:1188
+#: ../../google-maps-ve-pro/includes/view.php:1656 ../includes/view.php:178
+#: ../includes/view.php:747 ../includes/view.php:1057
+#: ../includes/view.php:1498
+msgid "Window CSS class"
+msgstr "Infoakna CSS class"
+
+#: ../../google-maps-ve-pro/includes/view.php:183
+#: ../../google-maps-ve-pro/includes/view.php:888
+#: ../../google-maps-ve-pro/includes/view.php:1194
+#: ../../google-maps-ve-pro/includes/view.php:1662 ../includes/view.php:184
+#: ../includes/view.php:753 ../includes/view.php:1063
+#: ../includes/view.php:1504
+msgid "Link text"
+msgstr "Lingi tekst"
+
+#: ../../google-maps-ve-pro/includes/view.php:184
+#: ../../google-maps-ve-pro/includes/view.php:889
+#: ../../google-maps-ve-pro/includes/view.php:1195
+#: ../../google-maps-ve-pro/includes/view.php:1663 ../includes/view.php:185
+#: ../includes/view.php:754 ../includes/view.php:1064
+#: ../includes/view.php:1505
+msgid "Example \"See more\""
+msgstr "Näiteks \"Vaata lähemalt\""
+
+#: ../../google-maps-ve-pro/includes/view.php:189
+#: ../../google-maps-ve-pro/includes/view.php:894
+#: ../../google-maps-ve-pro/includes/view.php:1200
+#: ../../google-maps-ve-pro/includes/view.php:1668 ../includes/view.php:190
+#: ../includes/view.php:759 ../includes/view.php:1069
+#: ../includes/view.php:1510
+msgid "Link URL"
+msgstr "Lingi URL"
+
+#: ../../google-maps-ve-pro/includes/view.php:195
+#: ../../google-maps-ve-pro/includes/view.php:900
+#: ../../google-maps-ve-pro/includes/view.php:1206
+#: ../../google-maps-ve-pro/includes/view.php:1674 ../includes/view.php:196
+#: ../includes/view.php:765 ../includes/view.php:1075
+#: ../includes/view.php:1516
+msgid "Image width"
+msgstr "Pildi laius"
+
+#: ../../google-maps-ve-pro/includes/view.php:201
+#: ../../google-maps-ve-pro/includes/view.php:906
+#: ../../google-maps-ve-pro/includes/view.php:1212
+#: ../../google-maps-ve-pro/includes/view.php:1680 ../includes/view.php:202
+#: ../includes/view.php:771 ../includes/view.php:1081
+#: ../includes/view.php:1522
+msgid "Image height"
+msgstr "Pildi kõrgus"
+
+#: ../../google-maps-ve-pro/includes/view.php:211
+#: ../../google-maps-ve-pro/includes/view.php:916 ../includes/view.php:213
+#: ../includes/view.php:782
+msgid "Marker icon url"
+msgstr "Kaardipunkti ikooni URL"
+
+#: ../../google-maps-ve-pro/includes/view.php:213
+#: ../../google-maps-ve-pro/includes/view.php:918 ../includes/view.php:215
+#: ../includes/view.php:784
+msgid "Choose or Upload an Image"
+msgstr "Vali või lae pilt ülesse"
+
+#: ../../google-maps-ve-pro/includes/view.php:229 ../includes/view.php:232
+msgid "Save and add marker to map"
+msgstr "Salvesta ja lisa kaardipunkt kaardile"
+
+#: ../../google-maps-ve-pro/includes/view.php:244
+#: ../../google-maps-ve-pro/includes/view.php:949
+#: ../../google-maps-ve-pro/includes/view.php:1353
+#: ../../google-maps-ve-pro/includes/view.php:1806 ../includes/view.php:248
+#: ../includes/view.php:817 ../includes/view.php:1224
+#: ../includes/view.php:1650
+msgid "Coordinates missing!"
+msgstr "Koordinaadid puuduvad!"
+
+#: ../../google-maps-ve-pro/includes/view.php:255
+#: ../../google-maps-ve-pro/includes/view.php:958
+#: ../../google-maps-ve-pro/includes/view.php:1362
+#: ../../google-maps-ve-pro/includes/view.php:1815 ../includes/view.php:259
+#: ../includes/view.php:826 ../includes/view.php:1233
+#: ../includes/view.php:1659
+msgid "Address is empty"
+msgstr "Aadress on tühi"
+
+#: ../../google-maps-ve-pro/includes/view.php:290 ../includes/view.php:294
+msgid "Map shortcode"
+msgstr "Kaardi viide"
+
+#: ../../google-maps-ve-pro/includes/view.php:298 ../includes/view.php:302
+msgid "Layers"
+msgstr "Kihid"
+
+#: ../../google-maps-ve-pro/includes/view.php:299 ../includes/view.php:303
+msgid "Controls"
+msgstr "Tööriistad"
+
+#: ../../google-maps-ve-pro/includes/view.php:300
+msgid "Addons"
+msgstr "Moodulid"
+
+#: ../../google-maps-ve-pro/includes/view.php:305
+#: ../../google-maps-ve-pro/includes/view.php:428 ../includes/view.php:308
+#: ../includes/view.php:431
+msgid "Map type"
+msgstr "Kaardi tüüp"
+
+#: ../../google-maps-ve-pro/includes/view.php:314 ../includes/view.php:317
+msgid "Map center latitude"
+msgstr "Kaardi keskpunkti laiuskraad"
+
+#: ../../google-maps-ve-pro/includes/view.php:318 ../includes/view.php:321
+msgid "Map width"
+msgstr "Kaardi laius"
+
+#: ../../google-maps-ve-pro/includes/view.php:328 ../includes/view.php:331
+msgid "Map center longitude"
+msgstr "Kaardi keskpunkti pikkuskraad"
+
+#: ../../google-maps-ve-pro/includes/view.php:332 ../includes/view.php:335
+msgid "Map height"
+msgstr "Kaardi kõrgus"
+
+#: ../../google-maps-ve-pro/includes/view.php:342 ../includes/view.php:345
+msgid "Center map by visitor location"
+msgstr "Määra kaardi keskpunkt külastaja järgi"
+
+#: ../../google-maps-ve-pro/includes/view.php:352 ../includes/view.php:355
+msgid "Map zoom"
+msgstr "Kaardi zoom"
+
+#: ../../google-maps-ve-pro/includes/view.php:358 ../includes/view.php:361
+msgid "Show get location button for visitor"
+msgstr "Kuva külastajale nupp tema asukoha leidmiseks"
+
+#: ../../google-maps-ve-pro/includes/view.php:372 ../includes/view.php:375
+msgid "Traffic layer"
+msgstr "Liikluse kiht"
+
+#: ../../google-maps-ve-pro/includes/view.php:383 ../includes/view.php:386
+msgid "Transit layer"
+msgstr "Ühistranspordi kiht"
+
+#: ../../google-maps-ve-pro/includes/view.php:394 ../includes/view.php:397
+msgid "Bicycling layer"
+msgstr "Jalgratta kiht"
+
+#: ../../google-maps-ve-pro/includes/view.php:409 ../includes/view.php:412
+msgid "Pan"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/view.php:418 ../includes/view.php:421
+msgid "Zoom"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/view.php:437 ../includes/view.php:440
+msgid "Scale"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/view.php:447 ../includes/view.php:450
+msgid "Street view"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/view.php:456 ../includes/view.php:459
+msgid "Overview"
+msgstr ""
+
+#: ../../google-maps-ve-pro/includes/view.php:470
+msgid "Drag addon to desired position"
+msgstr "Tiri moodul soovitud kohale ja järestusele"
+
+#: ../../google-maps-ve-pro/includes/view.php:473
+msgid "Unused addons"
+msgstr "Kasutamata moodulid"
+
+#: ../../google-maps-ve-pro/includes/view.php:474
+msgid "Above map"
+msgstr "Kaardi üleval"
+
+#: ../../google-maps-ve-pro/includes/view.php:475
+msgid "Below map"
+msgstr "Kaardi all"
+
+#: ../../google-maps-ve-pro/includes/view.php:617 ../includes/view.php:547
+msgid "Icon"
+msgstr "Ikoon"
+
+#: ../../google-maps-ve-pro/includes/view.php:618
+#: ../../google-maps-ve-pro/includes/view.php:707
+#: ../../google-maps-ve-pro/includes/view.php:2015 ../includes/view.php:548
+#: ../includes/view.php:605 ../includes/view.php:1829
+msgid "Info"
+msgstr "Info"
+
+#: ../../google-maps-ve-pro/includes/view.php:634
+#: ../../google-maps-ve-pro/includes/view.php:724
+#: ../../google-maps-ve-pro/includes/view.php:2032 ../includes/view.php:564
+#: ../includes/view.php:622 ../includes/view.php:1846
+msgid "See on map"
+msgstr "Vaata kaardil"
+
+#: ../../google-maps-ve-pro/includes/view.php:635
+#: ../../google-maps-ve-pro/includes/view.php:725
+#: ../../google-maps-ve-pro/includes/view.php:2033 ../includes/view.php:565
+#: ../includes/view.php:623 ../includes/view.php:1847
+msgid "Edit"
+msgstr "Muuda"
+
+#: ../../google-maps-ve-pro/includes/view.php:636
+#: ../../google-maps-ve-pro/includes/view.php:726
+#: ../../google-maps-ve-pro/includes/view.php:2034 ../includes/view.php:566
+#: ../includes/view.php:624 ../includes/view.php:1848
+msgid "Are you sure?"
+msgstr "Oled kindel?"
+
+#: ../../google-maps-ve-pro/includes/view.php:636
+#: ../../google-maps-ve-pro/includes/view.php:726
+#: ../../google-maps-ve-pro/includes/view.php:2034 ../includes/view.php:566
+#: ../includes/view.php:624 ../includes/view.php:1848
+msgid "Delete"
+msgstr "Kustuta"
+
+#: ../../google-maps-ve-pro/includes/view.php:703 ../includes/view.php:601
+msgid "Add new polygon"
+msgstr "Lisa uus polügoon"
+
+#: ../../google-maps-ve-pro/includes/view.php:824
+#: ../../google-maps-ve-pro/includes/view.php:1099
+#: ../../google-maps-ve-pro/includes/view.php:1577 ../includes/view.php:688
+#: ../includes/view.php:967 ../includes/view.php:1418
+msgid ""
+"You can set infowindow image from \"Featured image\" box on right sidebar"
+msgstr ""
+"Infoakna pildi saab määrata paremal küljel olevast kastist \"Tunnuspilt\""
+
+#: ../../google-maps-ve-pro/includes/view.php:946
+#: ../../google-maps-ve-pro/includes/view.php:1350
+#: ../../google-maps-ve-pro/includes/view.php:1803 ../includes/view.php:814
+#: ../includes/view.php:1221 ../includes/view.php:1647
+msgid "Back to map"
+msgstr "Tagasi kaardile"
+
+#: ../../google-maps-ve-pro/includes/view.php:1100
+#: ../../google-maps-ve-pro/includes/view.php:1578 ../includes/view.php:968
+#: ../includes/view.php:1419
+msgid "Click on map to add vertex"
+msgstr "Kliki kaardil, et lisada uus punkt"
+
+#: ../../google-maps-ve-pro/includes/view.php:1101
+#: ../../google-maps-ve-pro/includes/view.php:1579 ../includes/view.php:969
+#: ../includes/view.php:1420
+msgid "Right click on vertex to remove it."
+msgstr "Parema hiireklikiga saab punkti eemaldada"
+
+#: ../../google-maps-ve-pro/includes/view.php:1102 ../includes/view.php:970
+msgid "Drag polygon or vertex to move it."
+msgstr "Polügooni liigutamiseks lohista see soovitud kohta"
+
+#: ../../google-maps-ve-pro/includes/view.php:1108 ../includes/view.php:976
+msgid "Polygon parameters"
+msgstr "Polügooni parameetrid"
+
+#: ../../google-maps-ve-pro/includes/view.php:1116
+#: ../../google-maps-ve-pro/includes/view.php:1594 ../includes/view.php:984
+#: ../includes/view.php:1435
+msgid "Line color"
+msgstr "Joone värv"
+
+#: ../../google-maps-ve-pro/includes/view.php:1121 ../includes/view.php:989
+msgid "Fill color"
+msgstr "Sisu värv"
+
+#: ../../google-maps-ve-pro/includes/view.php:1125
+#: ../../google-maps-ve-pro/includes/view.php:1599 ../includes/view.php:993
+#: ../includes/view.php:1440
+msgid "Line opacity"
+msgstr "Joone läbipaistvus"
+
+#: ../../google-maps-ve-pro/includes/view.php:1131 ../includes/view.php:999
+msgid "Fill opacity"
+msgstr "Sisu läbipaistvus"
+
+#: ../../google-maps-ve-pro/includes/view.php:1138
+#: ../../google-maps-ve-pro/includes/view.php:1612 ../includes/view.php:1006
+#: ../includes/view.php:1453
+msgid "On hover line opacity"
+msgstr "Joone läbipaistvus hiirega peale minnes"
+
+#: ../../google-maps-ve-pro/includes/view.php:1144 ../includes/view.php:1012
+msgid "On hover fill opacity"
+msgstr "Sisu läbipaistvus hiirega peale minnes"
+
+#: ../../google-maps-ve-pro/includes/view.php:1580 ../includes/view.php:1421
+msgid "Drag polyline or vertex to move it."
+msgstr "Liini liigutamiseks lohista see soovitud kohta"
+
+#: ../../google-maps-ve-pro/includes/view.php:1586 ../includes/view.php:1427
+msgid "Polyline parameters"
+msgstr "Liini parameetrid"
+
+#: ../../google-maps-ve-pro/includes/view.php:1606 ../includes/view.php:1447
+msgid "Line thickness"
+msgstr "Joone paksus"
+
+#: ../../google-maps-ve-pro/includes/view.php:2011 ../includes/view.php:1825
+msgid "Add new polyline"
+msgstr "Lisa uus liin"
+
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:8
+msgid "Map directions"
+msgstr "Teekonna juhised"
+
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:10
+msgid "Display directions between waypoints"
+msgstr "Teekondade juhised"
+
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:152
+#: ../../google-maps-ve-pro/includes/widgets/filter.php:116
+#: ../../google-maps-ve-pro/includes/widgets/list.php:107
+msgid "Title:"
+msgstr "Pealkiri:"
+
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:156
+#: ../../google-maps-ve-pro/includes/widgets/filter.php:120
+#: ../../google-maps-ve-pro/includes/widgets/list.php:111
+msgid "Map:"
+msgstr "Kaart:"
+
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:163
+msgid "Translations"
+msgstr "Tõlked"
+
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:165
+msgid "Directions type"
+msgstr "Transpordi viis"
+
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:177
+msgid "Get directions text"
+msgstr "Hangi juhised"
+
+#: ../../google-maps-ve-pro/includes/widgets/directions.php:180
+msgid "Travel mode translations"
+msgstr "Transpordi viiside tõlked"
+
+#: ../../google-maps-ve-pro/includes/widgets/filter.php:8
+msgid "Map parameters filter"
+msgstr "Asukohtade filter"
+
+#: ../../google-maps-ve-pro/includes/widgets/filter.php:10
+msgid ""
+"Add parameters widget to sidebar to filter map markers, polylines and "
+"polygons"
+msgstr "Lisa asukohtade filter küljeribale."
+
+#: ../../google-maps-ve-pro/includes/widgets/list.php:8
+msgid "Map elements list"
+msgstr "Asukohapunktide nimekiri."
+
+#: ../../google-maps-ve-pro/includes/widgets/list.php:10
+msgid "Display map markers, polylines and polygons"
+msgstr "Kuva kaardipunktid, liinid ja polügoonid."
+
+#: ../../google-maps-ve-pro/includes/widgets/list.php:119
+msgid "Max height (px), empty for auto:"
+msgstr "Maksimaalne kõrgus (px), tühi automaatse puhul"
+
+#: ../../google-maps-ve-pro/includes/widgets/list.php:123
+msgid "Show icons:"
+msgstr "Kuva ikoonid:"
+
+#: ../includes/view.php:158 ../includes/view.php:210
+#: ../includes/view.php:220 ../includes/view.php:727
+#: ../includes/view.php:779 ../includes/view.php:789
+#: ../includes/view.php:1037 ../includes/view.php:1089
+#: ../includes/view.php:1478 ../includes/view.php:1530
+msgid "Get PRO version for this feature"
+msgstr "See funktsionaalsus on aktiivne ainult tasulise versiooniga."

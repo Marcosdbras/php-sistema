@@ -1,0 +1,3311 @@
+12-21-2017 @ 00:18:42 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-21-2017 @ 00:18:42 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=3450&sCdAvisoRecebimento=N&StrRetorno=xml
+12-21-2017 @ 00:18:42 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -5
+            [MsgErro] => O Valor Declarado nao deve exceder R$ 3.000,00.
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-21-2017 @ 00:20:19 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-21-2017 @ 00:20:19 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=3450&sCdAvisoRecebimento=N&StrRetorno=xml
+12-21-2017 @ 00:20:19 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -5
+            [MsgErro] => O Valor Declarado nao deve exceder R$ 3.000,00.
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-26-2017 @ 18:24:46 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-26-2017 @ 18:24:47 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=80&sCdAvisoRecebimento=N&StrRetorno=xml
+12-26-2017 @ 18:24:47 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,55
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,45
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-26-2017 @ 18:25:05 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-26-2017 @ 18:25:05 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=70&sCdAvisoRecebimento=N&StrRetorno=xml
+12-26-2017 @ 18:25:05 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,40
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,30
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-26-2017 @ 19:43:41 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-26-2017 @ 19:43:41 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=80&sCdAvisoRecebimento=N&StrRetorno=xml
+12-26-2017 @ 19:43:41 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,55
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,45
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-26-2017 @ 19:43:57 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-26-2017 @ 19:43:57 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=139&sCdAvisoRecebimento=N&StrRetorno=xml
+12-26-2017 @ 19:43:57 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 17,44
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 1,34
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-26-2017 @ 19:44:18 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-26-2017 @ 19:44:18 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=70&sCdAvisoRecebimento=N&StrRetorno=xml
+12-26-2017 @ 19:44:18 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,40
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,30
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-27-2017 @ 09:16:41 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-27-2017 @ 09:16:41 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03807010&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=70&sCdAvisoRecebimento=N&StrRetorno=xml
+12-27-2017 @ 09:16:41 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,40
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,30
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-27-2017 @ 15:32:27 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-27-2017 @ 15:32:27 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=290&sCdAvisoRecebimento=N&StrRetorno=xml
+12-27-2017 @ 15:32:27 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 19,70
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 3,60
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-27-2017 @ 15:33:41 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-27-2017 @ 15:33:41 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=290&sCdAvisoRecebimento=N&StrRetorno=xml
+12-27-2017 @ 15:33:42 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 19,70
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 3,60
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-27-2017 @ 20:38:07 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-27-2017 @ 20:38:07 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03807010&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=290&sCdAvisoRecebimento=N&StrRetorno=xml
+12-27-2017 @ 20:38:07 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 19,70
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 3,60
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-27-2017 @ 20:38:20 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-27-2017 @ 20:38:20 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03807010&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=510&sCdAvisoRecebimento=N&StrRetorno=xml
+12-27-2017 @ 20:38:20 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 23,00
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 6,90
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-27-2017 @ 20:39:04 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-27-2017 @ 20:39:04 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03807010&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=70&sCdAvisoRecebimento=N&StrRetorno=xml
+12-27-2017 @ 20:39:04 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,40
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,30
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-27-2017 @ 20:39:31 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-27-2017 @ 20:39:31 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03807010&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=180&sCdAvisoRecebimento=N&StrRetorno=xml
+12-27-2017 @ 20:39:31 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 18,05
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 1,95
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-28-2017 @ 07:23:58 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-28-2017 @ 07:23:58 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03807120&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=160&sCdAvisoRecebimento=N&StrRetorno=xml
+12-28-2017 @ 07:23:58 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 17,75
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 1,65
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-28-2017 @ 08:54:52 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-28-2017 @ 08:54:52 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03807120&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=280&sCdAvisoRecebimento=N&StrRetorno=xml
+12-28-2017 @ 08:54:53 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 19,55
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 3,45
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-28-2017 @ 08:55:06 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-28-2017 @ 08:55:06 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03807120&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=360&sCdAvisoRecebimento=N&StrRetorno=xml
+12-28-2017 @ 08:55:06 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 20,75
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 4,65
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-28-2017 @ 10:46:48 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-28-2017 @ 10:46:48 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03807010&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=400&sCdAvisoRecebimento=N&StrRetorno=xml
+12-28-2017 @ 10:46:48 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 21,35
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 5,25
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-29-2017 @ 12:56:34 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-29-2017 @ 12:56:34 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=40&sCdAvisoRecebimento=N&StrRetorno=xml
+12-29-2017 @ 12:56:34 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,10
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-29-2017 @ 12:57:37 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-29-2017 @ 12:57:37 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=40&sCdAvisoRecebimento=N&StrRetorno=xml
+12-29-2017 @ 12:57:38 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,10
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-29-2017 @ 13:04:14 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-29-2017 @ 13:04:14 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=40&sCdAvisoRecebimento=N&StrRetorno=xml
+12-29-2017 @ 13:04:15 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,10
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-29-2017 @ 15:36:13 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-29-2017 @ 15:36:13 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=40&sCdAvisoRecebimento=N&StrRetorno=xml
+12-29-2017 @ 15:36:13 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,10
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-29-2017 @ 16:03:22 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-29-2017 @ 16:03:22 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=40&sCdAvisoRecebimento=N&StrRetorno=xml
+12-29-2017 @ 16:03:22 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,10
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-30-2017 @ 14:25:56 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-30-2017 @ 14:25:56 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=42&sCdAvisoRecebimento=N&StrRetorno=xml
+12-30-2017 @ 14:25:56 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,10
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-30-2017 @ 15:09:57 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-30-2017 @ 15:09:57 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=182&sCdAvisoRecebimento=N&StrRetorno=xml
+12-30-2017 @ 15:09:57 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 18,08
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 1,98
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-30-2017 @ 15:09:58 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-30-2017 @ 15:09:58 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=182&sCdAvisoRecebimento=N&StrRetorno=xml
+12-30-2017 @ 15:09:58 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 18,08
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 1,98
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-31-2017 @ 13:14:38 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-31-2017 @ 13:14:38 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=140&sCdAvisoRecebimento=N&StrRetorno=xml
+12-31-2017 @ 13:14:38 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 17,45
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 1,35
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-31-2017 @ 16:37:59 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-31-2017 @ 16:37:59 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=220&sCdAvisoRecebimento=N&StrRetorno=xml
+12-31-2017 @ 16:37:59 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 18,65
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 2,55
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-31-2017 @ 22:14:14 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-31-2017 @ 22:14:14 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=140&sCdAvisoRecebimento=N&StrRetorno=xml
+12-31-2017 @ 22:14:14 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 17,45
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 1,35
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-31-2017 @ 22:28:38 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-31-2017 @ 22:28:38 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=142&sCdAvisoRecebimento=N&StrRetorno=xml
+12-31-2017 @ 22:28:38 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 17,48
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 1,38
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+12-31-2017 @ 22:39:25 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+12-31-2017 @ 22:39:25 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=142&sCdAvisoRecebimento=N&StrRetorno=xml
+12-31-2017 @ 22:39:25 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 17,48
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 1,38
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-01-2018 @ 02:22:55 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-01-2018 @ 02:22:55 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=142&sCdAvisoRecebimento=N&StrRetorno=xml
+01-01-2018 @ 02:22:55 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 17,48
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 1,38
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-01-2018 @ 02:30:04 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-01-2018 @ 02:30:04 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=452&sCdAvisoRecebimento=N&StrRetorno=xml
+01-01-2018 @ 02:30:04 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 22,13
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 6,03
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-06-2018 @ 18:05:48 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-06-2018 @ 18:05:48 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03676040&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=160&sCdAvisoRecebimento=N&StrRetorno=xml
+01-06-2018 @ 18:05:49 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 17,75
+            [PrazoEntrega] => 7
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 1,65
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-09-2018 @ 15:06:14 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-09-2018 @ 15:06:15 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=70&sCdAvisoRecebimento=N&StrRetorno=xml
+01-09-2018 @ 15:06:16 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,40
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,30
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-09-2018 @ 16:09:41 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-09-2018 @ 16:09:41 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=70&sCdAvisoRecebimento=N&StrRetorno=xml
+01-09-2018 @ 16:09:42 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,40
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,30
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-09-2018 @ 17:16:43 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-09-2018 @ 17:16:43 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=110&sCdAvisoRecebimento=N&StrRetorno=xml
+01-09-2018 @ 17:16:43 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 17,00
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,90
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-09-2018 @ 17:45:16 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-09-2018 @ 17:45:16 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=290&sCdAvisoRecebimento=N&StrRetorno=xml
+01-09-2018 @ 17:45:17 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 19,70
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 3,60
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-12-2018 @ 23:28:50 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-12-2018 @ 23:28:50 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=290&sCdAvisoRecebimento=N&StrRetorno=xml
+01-12-2018 @ 23:28:52 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 19,70
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 3,60
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-14-2018 @ 16:21:28 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 16:21:28 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=50875090&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=393&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 16:21:39 - WP_Error: cURL error 28: Connection timed out after 10001 milliseconds
+01-14-2018 @ 16:22:11 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 16:22:11 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=50875090&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=396&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 16:22:16 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 30,89
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 25,70
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 5,19
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-14-2018 @ 16:23:09 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 16:23:09 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=50875090&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=399&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 16:23:17 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 30,94
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 25,70
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 5,24
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-14-2018 @ 16:25:28 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 16:25:28 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=50875090&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=408&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 16:25:58 - WP_Error: cURL error 28: Operation timed out after 30001 milliseconds with 0 out of -1 bytes received
+01-14-2018 @ 16:27:22 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 16:27:22 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=50875090&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=393&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 16:27:32 - WP_Error: cURL error 28: Connection timed out after 10001 milliseconds
+01-14-2018 @ 16:28:10 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 16:28:10 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=50875090&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=98&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 16:28:19 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 26,42
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 25,70
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,72
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-14-2018 @ 16:32:01 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 16:32:01 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=50875090&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=393&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 16:32:15 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 30,85
+            [PrazoEntrega] => 10
+            [ValorSemAdicionais] => 25,70
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 5,15
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-14-2018 @ 19:54:04 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 19:54:04 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=28&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 19:54:06 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 19:54:06 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=28&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 19:54:09 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 19:54:09 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=28&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 19:54:22 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 0,00
+            [PrazoEntrega] => 0
+            [ValorSemAdicionais] => 0,00
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => SimpleXMLElement Object
+                (
+                )
+
+            [EntregaSabado] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => -3
+            [MsgErro] => CEP de destino invalido.
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-14-2018 @ 19:54:32 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,10
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-14-2018 @ 19:54:39 - WP_Error: cURL error 28: Operation timed out after 30001 milliseconds with 0 out of -1 bytes received
+01-14-2018 @ 19:55:39 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 19:55:39 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=28&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 19:55:50 - WP_Error: cURL error 28: Connection timed out after 10001 milliseconds
+01-14-2018 @ 19:56:26 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 19:56:26 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=28&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 19:56:48 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 16,10
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-14-2018 @ 19:57:57 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 19:57:57 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=28&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 19:58:27 - WP_Error: cURL error 28: Operation timed out after 30001 milliseconds with 0 out of -1 bytes received
+01-14-2018 @ 20:37:28 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 20:37:28 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=50875090&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=411&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 20:37:38 - WP_Error: cURL error 28: Connection timed out after 10001 milliseconds
+01-14-2018 @ 20:38:37 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 20:38:37 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=50875090&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=408&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 20:38:47 - WP_Error: cURL error 28: Connection timed out after 10001 milliseconds
+01-14-2018 @ 20:39:39 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 20:39:39 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=50875090&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=101&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 20:40:09 - WP_Error: cURL error 28: Operation timed out after 30001 milliseconds with 0 out of -1 bytes received
+01-14-2018 @ 21:40:11 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 21:40:11 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=50875090&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=501&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 21:40:41 - WP_Error: cURL error 28: Operation timed out after 30001 milliseconds with 0 out of -1 bytes received
+01-14-2018 @ 21:50:46 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 21:50:46 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=293&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 21:50:56 - WP_Error: cURL error 28: Connection timed out after 10001 milliseconds
+01-14-2018 @ 21:51:20 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 21:51:20 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=296&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 21:51:40 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 19,79
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 3,69
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-14-2018 @ 21:53:18 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 21:53:18 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=116&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 21:53:18 - Error accessing the Correios WebServices: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [cache-control] => private
+                    [content-type] => text/html; charset=utf-8
+                    [server] => Microsoft-IIS/7.5
+                    [x-powered-by] => ASP.NET
+                    [date] => Sun, 14 Jan 2018 23:52:22 GMT
+                    [content-length] => 5299
+                )
+
+        )
+
+    [body] => <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>IIS 7.5 Detailed Error - 503.2 - Service Unavailable</title> 
+<style type="text/css"> 
+<!-- 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;background:#CBE1EF;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 40px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;padding:4px 15px 4px 10px;margin:4px 0 8px -12px;_margin-top:0px; 
+ border-top:1px solid #EDEDED;border-left:1px solid #EDEDED;border-right:1px solid #969696; 
+ border-bottom:1px solid #969696;background:#E7ECF0;font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.config_source{background:#fff5c4;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:bold;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:normal;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{background-color:#ebebeb;} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+--> 
+</style> 
+ 
+</head> 
+<body> 
+<div id="header"><h1>Server Error in Application "DEFAULT WEB SITE/CALCULADOR"</h1></div> 
+<div id="server_version"><p>Internet Information Services 7.5</p></div> 
+<div id="content"> 
+<div class="content-container"> 
+ <fieldset><legend>Error Summary</legend> 
+  <h2>HTTP Error 503.2 - Service Unavailable</h2> 
+  <h3>The serverRuntime@appConcurrentRequestLimit setting is being exceeded.</h3> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Detailed Error Information</legend> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Module</th><td>IIS Web Core</td></tr> 
+    <tr><th>Notification</th><td>BeginRequest</td></tr> 
+    <tr class="alt"><th>Handler</th><td>PageHandlerFactory-ISAPI-4.0_64bit</td></tr> 
+    <tr><th>Error Code</th><td>0x00000000</td></tr> 
+     
+   </table> 
+  </div> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Requested URL</th><td>http://ws.correios.com.br:80/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&amp;nCdEmpresa&amp;sDsSenha&amp;sCepDestino=03808050&amp;sCepOrigem=03807120&amp;nVlAltura=2&amp;nVlLargura=11&amp;nVlDiametro=0&amp;nVlComprimento=16&amp;nVlPeso=0&amp;nCdFormato=1&amp;sCdMaoPropria=N&amp;nVlValorDeclarado=116&amp;sCdAvisoRecebimento=N&amp;StrRetorno=xml</td></tr> 
+    <tr><th>Physical Path</th><td>D:\InternetFiles\calculador\CalcPrecoPrazo.aspx</td></tr> 
+    <tr class="alt"><th>Logon Method</th><td>Not yet determined</td></tr> 
+    <tr><th>Logon User</th><td>Not yet determined</td></tr> 
+     
+   </table> 
+   <div class="clear"></div> 
+  </div> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Most likely causes:</legend> 
+  <ul> 	<li>Setting is too low.</li> 	<li>The application is taking too long for the current load.</li> </ul> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Things you can try:</legend> 
+  <ul> 	<li>Try increasing the value of the setting.</li> 	<li>Check that external resources (for example, disk, database, etc..) are performing at expected levels.</li> 	<li>Check that the application has not deadlocked.</li> </ul> 
+ </fieldset> 
+</div> 
+ 
+ 
+<div class="content-container"> 
+ <fieldset><legend>Links and More Information</legend> 
+  IIS will not allow more concurrent requests to an application than the serverRuntime@appConcurrentRequestLimit setting permits. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=503,2,0x00000000,7601">View more information &raquo;</a></p> 
+   
+ </fieldset> 
+</div> 
+</div> 
+</body> 
+</html> 
+
+    [response] => Array
+        (
+            [code] => 503
+            [message] => Service Unavailable
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>IIS 7.5 Detailed Error - 503.2 - Service Unavailable</title> 
+<style type="text/css"> 
+<!-- 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;background:#CBE1EF;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 40px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;padding:4px 15px 4px 10px;margin:4px 0 8px -12px;_margin-top:0px; 
+ border-top:1px solid #EDEDED;border-left:1px solid #EDEDED;border-right:1px solid #969696; 
+ border-bottom:1px solid #969696;background:#E7ECF0;font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.config_source{background:#fff5c4;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:bold;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:normal;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{background-color:#ebebeb;} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+--> 
+</style> 
+ 
+</head> 
+<body> 
+<div id="header"><h1>Server Error in Application "DEFAULT WEB SITE/CALCULADOR"</h1></div> 
+<div id="server_version"><p>Internet Information Services 7.5</p></div> 
+<div id="content"> 
+<div class="content-container"> 
+ <fieldset><legend>Error Summary</legend> 
+  <h2>HTTP Error 503.2 - Service Unavailable</h2> 
+  <h3>The serverRuntime@appConcurrentRequestLimit setting is being exceeded.</h3> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Detailed Error Information</legend> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Module</th><td>IIS Web Core</td></tr> 
+    <tr><th>Notification</th><td>BeginRequest</td></tr> 
+    <tr class="alt"><th>Handler</th><td>PageHandlerFactory-ISAPI-4.0_64bit</td></tr> 
+    <tr><th>Error Code</th><td>0x00000000</td></tr> 
+     
+   </table> 
+  </div> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Requested URL</th><td>http://ws.correios.com.br:80/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&amp;nCdEmpresa&amp;sDsSenha&amp;sCepDestino=03808050&amp;sCepOrigem=03807120&amp;nVlAltura=2&amp;nVlLargura=11&amp;nVlDiametro=0&amp;nVlComprimento=16&amp;nVlPeso=0&amp;nCdFormato=1&amp;sCdMaoPropria=N&amp;nVlValorDeclarado=116&amp;sCdAvisoRecebimento=N&amp;StrRetorno=xml</td></tr> 
+    <tr><th>Physical Path</th><td>D:\InternetFiles\calculador\CalcPrecoPrazo.aspx</td></tr> 
+    <tr class="alt"><th>Logon Method</th><td>Not yet determined</td></tr> 
+    <tr><th>Logon User</th><td>Not yet determined</td></tr> 
+     
+   </table> 
+   <div class="clear"></div> 
+  </div> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Most likely causes:</legend> 
+  <ul> 	<li>Setting is too low.</li> 	<li>The application is taking too long for the current load.</li> </ul> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Things you can try:</legend> 
+  <ul> 	<li>Try increasing the value of the setting.</li> 	<li>Check that external resources (for example, disk, database, etc..) are performing at expected levels.</li> 	<li>Check that the application has not deadlocked.</li> </ul> 
+ </fieldset> 
+</div> 
+ 
+ 
+<div class="content-container"> 
+ <fieldset><legend>Links and More Information</legend> 
+  IIS will not allow more concurrent requests to an application than the serverRuntime@appConcurrentRequestLimit setting permits. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=503,2,0x00000000,7601">View more information &raquo;</a></p> 
+   
+ </fieldset> 
+</div> 
+</div> 
+</body> 
+</html> 
+
+                    [raw] => HTTP/1.1 503 Service Unavailable
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Sun, 14 Jan 2018 23:52:22 GMT
+Connection: close
+Content-Length: 5299
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>IIS 7.5 Detailed Error - 503.2 - Service Unavailable</title> 
+<style type="text/css"> 
+<!-- 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;background:#CBE1EF;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 40px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;padding:4px 15px 4px 10px;margin:4px 0 8px -12px;_margin-top:0px; 
+ border-top:1px solid #EDEDED;border-left:1px solid #EDEDED;border-right:1px solid #969696; 
+ border-bottom:1px solid #969696;background:#E7ECF0;font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.config_source{background:#fff5c4;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:bold;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:normal;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{background-color:#ebebeb;} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+--> 
+</style> 
+ 
+</head> 
+<body> 
+<div id="header"><h1>Server Error in Application "DEFAULT WEB SITE/CALCULADOR"</h1></div> 
+<div id="server_version"><p>Internet Information Services 7.5</p></div> 
+<div id="content"> 
+<div class="content-container"> 
+ <fieldset><legend>Error Summary</legend> 
+  <h2>HTTP Error 503.2 - Service Unavailable</h2> 
+  <h3>The serverRuntime@appConcurrentRequestLimit setting is being exceeded.</h3> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Detailed Error Information</legend> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Module</th><td>IIS Web Core</td></tr> 
+    <tr><th>Notification</th><td>BeginRequest</td></tr> 
+    <tr class="alt"><th>Handler</th><td>PageHandlerFactory-ISAPI-4.0_64bit</td></tr> 
+    <tr><th>Error Code</th><td>0x00000000</td></tr> 
+     
+   </table> 
+  </div> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Requested URL</th><td>http://ws.correios.com.br:80/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&amp;nCdEmpresa&amp;sDsSenha&amp;sCepDestino=03808050&amp;sCepOrigem=03807120&amp;nVlAltura=2&amp;nVlLargura=11&amp;nVlDiametro=0&amp;nVlComprimento=16&amp;nVlPeso=0&amp;nCdFormato=1&amp;sCdMaoPropria=N&amp;nVlValorDeclarado=116&amp;sCdAvisoRecebimento=N&amp;StrRetorno=xml</td></tr> 
+    <tr><th>Physical Path</th><td>D:\InternetFiles\calculador\CalcPrecoPrazo.aspx</td></tr> 
+    <tr class="alt"><th>Logon Method</th><td>Not yet determined</td></tr> 
+    <tr><th>Logon User</th><td>Not yet determined</td></tr> 
+     
+   </table> 
+   <div class="clear"></div> 
+  </div> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Most likely causes:</legend> 
+  <ul> 	<li>Setting is too low.</li> 	<li>The application is taking too long for the current load.</li> </ul> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Things you can try:</legend> 
+  <ul> 	<li>Try increasing the value of the setting.</li> 	<li>Check that external resources (for example, disk, database, etc..) are performing at expected levels.</li> 	<li>Check that the application has not deadlocked.</li> </ul> 
+ </fieldset> 
+</div> 
+ 
+ 
+<div class="content-container"> 
+ <fieldset><legend>Links and More Information</legend> 
+  IIS will not allow more concurrent requests to an application than the serverRuntime@appConcurrentRequestLimit setting permits. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=503,2,0x00000000,7601">View more information &raquo;</a></p> 
+   
+ </fieldset> 
+</div> 
+</div> 
+</body> 
+</html> 
+
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [cache-control] => Array
+                                        (
+                                            [0] => private
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/html; charset=utf-8
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Microsoft-IIS/7.5
+                                        )
+
+                                    [x-powered-by] => Array
+                                        (
+                                            [0] => ASP.NET
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Sun, 14 Jan 2018 23:52:22 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 5299
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 503
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=116&sCdAvisoRecebimento=N&StrRetorno=xml
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+01-14-2018 @ 21:54:08 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 21:54:08 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=296&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 21:54:08 - Error accessing the Correios WebServices: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [cache-control] => private
+                    [content-type] => text/html; charset=utf-8
+                    [server] => Microsoft-IIS/7.5
+                    [x-powered-by] => ASP.NET
+                    [date] => Sun, 14 Jan 2018 23:53:12 GMT
+                    [content-length] => 5299
+                )
+
+        )
+
+    [body] => <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>IIS 7.5 Detailed Error - 503.2 - Service Unavailable</title> 
+<style type="text/css"> 
+<!-- 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;background:#CBE1EF;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 40px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;padding:4px 15px 4px 10px;margin:4px 0 8px -12px;_margin-top:0px; 
+ border-top:1px solid #EDEDED;border-left:1px solid #EDEDED;border-right:1px solid #969696; 
+ border-bottom:1px solid #969696;background:#E7ECF0;font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.config_source{background:#fff5c4;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:bold;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:normal;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{background-color:#ebebeb;} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+--> 
+</style> 
+ 
+</head> 
+<body> 
+<div id="header"><h1>Server Error in Application "DEFAULT WEB SITE/CALCULADOR"</h1></div> 
+<div id="server_version"><p>Internet Information Services 7.5</p></div> 
+<div id="content"> 
+<div class="content-container"> 
+ <fieldset><legend>Error Summary</legend> 
+  <h2>HTTP Error 503.2 - Service Unavailable</h2> 
+  <h3>The serverRuntime@appConcurrentRequestLimit setting is being exceeded.</h3> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Detailed Error Information</legend> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Module</th><td>IIS Web Core</td></tr> 
+    <tr><th>Notification</th><td>BeginRequest</td></tr> 
+    <tr class="alt"><th>Handler</th><td>PageHandlerFactory-ISAPI-4.0_64bit</td></tr> 
+    <tr><th>Error Code</th><td>0x00000000</td></tr> 
+     
+   </table> 
+  </div> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Requested URL</th><td>http://ws.correios.com.br:80/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&amp;nCdEmpresa&amp;sDsSenha&amp;sCepDestino=03808050&amp;sCepOrigem=03807120&amp;nVlAltura=2&amp;nVlLargura=11&amp;nVlDiametro=0&amp;nVlComprimento=16&amp;nVlPeso=0&amp;nCdFormato=1&amp;sCdMaoPropria=N&amp;nVlValorDeclarado=296&amp;sCdAvisoRecebimento=N&amp;StrRetorno=xml</td></tr> 
+    <tr><th>Physical Path</th><td>D:\InternetFiles\calculador\CalcPrecoPrazo.aspx</td></tr> 
+    <tr class="alt"><th>Logon Method</th><td>Not yet determined</td></tr> 
+    <tr><th>Logon User</th><td>Not yet determined</td></tr> 
+     
+   </table> 
+   <div class="clear"></div> 
+  </div> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Most likely causes:</legend> 
+  <ul> 	<li>Setting is too low.</li> 	<li>The application is taking too long for the current load.</li> </ul> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Things you can try:</legend> 
+  <ul> 	<li>Try increasing the value of the setting.</li> 	<li>Check that external resources (for example, disk, database, etc..) are performing at expected levels.</li> 	<li>Check that the application has not deadlocked.</li> </ul> 
+ </fieldset> 
+</div> 
+ 
+ 
+<div class="content-container"> 
+ <fieldset><legend>Links and More Information</legend> 
+  IIS will not allow more concurrent requests to an application than the serverRuntime@appConcurrentRequestLimit setting permits. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=503,2,0x00000000,7601">View more information &raquo;</a></p> 
+   
+ </fieldset> 
+</div> 
+</div> 
+</body> 
+</html> 
+
+    [response] => Array
+        (
+            [code] => 503
+            [message] => Service Unavailable
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>IIS 7.5 Detailed Error - 503.2 - Service Unavailable</title> 
+<style type="text/css"> 
+<!-- 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;background:#CBE1EF;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 40px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;padding:4px 15px 4px 10px;margin:4px 0 8px -12px;_margin-top:0px; 
+ border-top:1px solid #EDEDED;border-left:1px solid #EDEDED;border-right:1px solid #969696; 
+ border-bottom:1px solid #969696;background:#E7ECF0;font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.config_source{background:#fff5c4;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:bold;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:normal;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{background-color:#ebebeb;} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+--> 
+</style> 
+ 
+</head> 
+<body> 
+<div id="header"><h1>Server Error in Application "DEFAULT WEB SITE/CALCULADOR"</h1></div> 
+<div id="server_version"><p>Internet Information Services 7.5</p></div> 
+<div id="content"> 
+<div class="content-container"> 
+ <fieldset><legend>Error Summary</legend> 
+  <h2>HTTP Error 503.2 - Service Unavailable</h2> 
+  <h3>The serverRuntime@appConcurrentRequestLimit setting is being exceeded.</h3> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Detailed Error Information</legend> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Module</th><td>IIS Web Core</td></tr> 
+    <tr><th>Notification</th><td>BeginRequest</td></tr> 
+    <tr class="alt"><th>Handler</th><td>PageHandlerFactory-ISAPI-4.0_64bit</td></tr> 
+    <tr><th>Error Code</th><td>0x00000000</td></tr> 
+     
+   </table> 
+  </div> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Requested URL</th><td>http://ws.correios.com.br:80/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&amp;nCdEmpresa&amp;sDsSenha&amp;sCepDestino=03808050&amp;sCepOrigem=03807120&amp;nVlAltura=2&amp;nVlLargura=11&amp;nVlDiametro=0&amp;nVlComprimento=16&amp;nVlPeso=0&amp;nCdFormato=1&amp;sCdMaoPropria=N&amp;nVlValorDeclarado=296&amp;sCdAvisoRecebimento=N&amp;StrRetorno=xml</td></tr> 
+    <tr><th>Physical Path</th><td>D:\InternetFiles\calculador\CalcPrecoPrazo.aspx</td></tr> 
+    <tr class="alt"><th>Logon Method</th><td>Not yet determined</td></tr> 
+    <tr><th>Logon User</th><td>Not yet determined</td></tr> 
+     
+   </table> 
+   <div class="clear"></div> 
+  </div> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Most likely causes:</legend> 
+  <ul> 	<li>Setting is too low.</li> 	<li>The application is taking too long for the current load.</li> </ul> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Things you can try:</legend> 
+  <ul> 	<li>Try increasing the value of the setting.</li> 	<li>Check that external resources (for example, disk, database, etc..) are performing at expected levels.</li> 	<li>Check that the application has not deadlocked.</li> </ul> 
+ </fieldset> 
+</div> 
+ 
+ 
+<div class="content-container"> 
+ <fieldset><legend>Links and More Information</legend> 
+  IIS will not allow more concurrent requests to an application than the serverRuntime@appConcurrentRequestLimit setting permits. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=503,2,0x00000000,7601">View more information &raquo;</a></p> 
+   
+ </fieldset> 
+</div> 
+</div> 
+</body> 
+</html> 
+
+                    [raw] => HTTP/1.1 503 Service Unavailable
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Sun, 14 Jan 2018 23:53:12 GMT
+Connection: close
+Content-Length: 5299
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>IIS 7.5 Detailed Error - 503.2 - Service Unavailable</title> 
+<style type="text/css"> 
+<!-- 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;background:#CBE1EF;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 40px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;padding:4px 15px 4px 10px;margin:4px 0 8px -12px;_margin-top:0px; 
+ border-top:1px solid #EDEDED;border-left:1px solid #EDEDED;border-right:1px solid #969696; 
+ border-bottom:1px solid #969696;background:#E7ECF0;font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.config_source{background:#fff5c4;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:bold;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:normal;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{background-color:#ebebeb;} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+--> 
+</style> 
+ 
+</head> 
+<body> 
+<div id="header"><h1>Server Error in Application "DEFAULT WEB SITE/CALCULADOR"</h1></div> 
+<div id="server_version"><p>Internet Information Services 7.5</p></div> 
+<div id="content"> 
+<div class="content-container"> 
+ <fieldset><legend>Error Summary</legend> 
+  <h2>HTTP Error 503.2 - Service Unavailable</h2> 
+  <h3>The serverRuntime@appConcurrentRequestLimit setting is being exceeded.</h3> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Detailed Error Information</legend> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Module</th><td>IIS Web Core</td></tr> 
+    <tr><th>Notification</th><td>BeginRequest</td></tr> 
+    <tr class="alt"><th>Handler</th><td>PageHandlerFactory-ISAPI-4.0_64bit</td></tr> 
+    <tr><th>Error Code</th><td>0x00000000</td></tr> 
+     
+   </table> 
+  </div> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Requested URL</th><td>http://ws.correios.com.br:80/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&amp;nCdEmpresa&amp;sDsSenha&amp;sCepDestino=03808050&amp;sCepOrigem=03807120&amp;nVlAltura=2&amp;nVlLargura=11&amp;nVlDiametro=0&amp;nVlComprimento=16&amp;nVlPeso=0&amp;nCdFormato=1&amp;sCdMaoPropria=N&amp;nVlValorDeclarado=296&amp;sCdAvisoRecebimento=N&amp;StrRetorno=xml</td></tr> 
+    <tr><th>Physical Path</th><td>D:\InternetFiles\calculador\CalcPrecoPrazo.aspx</td></tr> 
+    <tr class="alt"><th>Logon Method</th><td>Not yet determined</td></tr> 
+    <tr><th>Logon User</th><td>Not yet determined</td></tr> 
+     
+   </table> 
+   <div class="clear"></div> 
+  </div> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Most likely causes:</legend> 
+  <ul> 	<li>Setting is too low.</li> 	<li>The application is taking too long for the current load.</li> </ul> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Things you can try:</legend> 
+  <ul> 	<li>Try increasing the value of the setting.</li> 	<li>Check that external resources (for example, disk, database, etc..) are performing at expected levels.</li> 	<li>Check that the application has not deadlocked.</li> </ul> 
+ </fieldset> 
+</div> 
+ 
+ 
+<div class="content-container"> 
+ <fieldset><legend>Links and More Information</legend> 
+  IIS will not allow more concurrent requests to an application than the serverRuntime@appConcurrentRequestLimit setting permits. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=503,2,0x00000000,7601">View more information &raquo;</a></p> 
+   
+ </fieldset> 
+</div> 
+</div> 
+</body> 
+</html> 
+
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [cache-control] => Array
+                                        (
+                                            [0] => private
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/html; charset=utf-8
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Microsoft-IIS/7.5
+                                        )
+
+                                    [x-powered-by] => Array
+                                        (
+                                            [0] => ASP.NET
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Sun, 14 Jan 2018 23:53:12 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 5299
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 503
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=296&sCdAvisoRecebimento=N&StrRetorno=xml
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+01-14-2018 @ 21:54:26 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 21:54:26 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=226&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 21:54:36 - WP_Error: cURL error 28: Connection timed out after 10001 milliseconds
+01-14-2018 @ 21:55:08 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 21:55:08 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=296&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 21:55:08 - Error accessing the Correios WebServices: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [cache-control] => private
+                    [content-type] => text/html; charset=utf-8
+                    [server] => Microsoft-IIS/7.5
+                    [x-powered-by] => ASP.NET
+                    [date] => Sun, 14 Jan 2018 23:54:11 GMT
+                    [content-length] => 5299
+                )
+
+        )
+
+    [body] => <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>IIS 7.5 Detailed Error - 503.2 - Service Unavailable</title> 
+<style type="text/css"> 
+<!-- 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;background:#CBE1EF;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 40px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;padding:4px 15px 4px 10px;margin:4px 0 8px -12px;_margin-top:0px; 
+ border-top:1px solid #EDEDED;border-left:1px solid #EDEDED;border-right:1px solid #969696; 
+ border-bottom:1px solid #969696;background:#E7ECF0;font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.config_source{background:#fff5c4;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:bold;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:normal;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{background-color:#ebebeb;} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+--> 
+</style> 
+ 
+</head> 
+<body> 
+<div id="header"><h1>Server Error in Application "DEFAULT WEB SITE/CALCULADOR"</h1></div> 
+<div id="server_version"><p>Internet Information Services 7.5</p></div> 
+<div id="content"> 
+<div class="content-container"> 
+ <fieldset><legend>Error Summary</legend> 
+  <h2>HTTP Error 503.2 - Service Unavailable</h2> 
+  <h3>The serverRuntime@appConcurrentRequestLimit setting is being exceeded.</h3> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Detailed Error Information</legend> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Module</th><td>IIS Web Core</td></tr> 
+    <tr><th>Notification</th><td>BeginRequest</td></tr> 
+    <tr class="alt"><th>Handler</th><td>PageHandlerFactory-ISAPI-4.0_64bit</td></tr> 
+    <tr><th>Error Code</th><td>0x00000000</td></tr> 
+     
+   </table> 
+  </div> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Requested URL</th><td>http://ws.correios.com.br:80/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&amp;nCdEmpresa&amp;sDsSenha&amp;sCepDestino=03808050&amp;sCepOrigem=03807120&amp;nVlAltura=2&amp;nVlLargura=11&amp;nVlDiametro=0&amp;nVlComprimento=16&amp;nVlPeso=0&amp;nCdFormato=1&amp;sCdMaoPropria=N&amp;nVlValorDeclarado=296&amp;sCdAvisoRecebimento=N&amp;StrRetorno=xml</td></tr> 
+    <tr><th>Physical Path</th><td>D:\InternetFiles\calculador\CalcPrecoPrazo.aspx</td></tr> 
+    <tr class="alt"><th>Logon Method</th><td>Not yet determined</td></tr> 
+    <tr><th>Logon User</th><td>Not yet determined</td></tr> 
+     
+   </table> 
+   <div class="clear"></div> 
+  </div> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Most likely causes:</legend> 
+  <ul> 	<li>Setting is too low.</li> 	<li>The application is taking too long for the current load.</li> </ul> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Things you can try:</legend> 
+  <ul> 	<li>Try increasing the value of the setting.</li> 	<li>Check that external resources (for example, disk, database, etc..) are performing at expected levels.</li> 	<li>Check that the application has not deadlocked.</li> </ul> 
+ </fieldset> 
+</div> 
+ 
+ 
+<div class="content-container"> 
+ <fieldset><legend>Links and More Information</legend> 
+  IIS will not allow more concurrent requests to an application than the serverRuntime@appConcurrentRequestLimit setting permits. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=503,2,0x00000000,7601">View more information &raquo;</a></p> 
+   
+ </fieldset> 
+</div> 
+</div> 
+</body> 
+</html> 
+
+    [response] => Array
+        (
+            [code] => 503
+            [message] => Service Unavailable
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>IIS 7.5 Detailed Error - 503.2 - Service Unavailable</title> 
+<style type="text/css"> 
+<!-- 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;background:#CBE1EF;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 40px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;padding:4px 15px 4px 10px;margin:4px 0 8px -12px;_margin-top:0px; 
+ border-top:1px solid #EDEDED;border-left:1px solid #EDEDED;border-right:1px solid #969696; 
+ border-bottom:1px solid #969696;background:#E7ECF0;font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.config_source{background:#fff5c4;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:bold;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:normal;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{background-color:#ebebeb;} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+--> 
+</style> 
+ 
+</head> 
+<body> 
+<div id="header"><h1>Server Error in Application "DEFAULT WEB SITE/CALCULADOR"</h1></div> 
+<div id="server_version"><p>Internet Information Services 7.5</p></div> 
+<div id="content"> 
+<div class="content-container"> 
+ <fieldset><legend>Error Summary</legend> 
+  <h2>HTTP Error 503.2 - Service Unavailable</h2> 
+  <h3>The serverRuntime@appConcurrentRequestLimit setting is being exceeded.</h3> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Detailed Error Information</legend> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Module</th><td>IIS Web Core</td></tr> 
+    <tr><th>Notification</th><td>BeginRequest</td></tr> 
+    <tr class="alt"><th>Handler</th><td>PageHandlerFactory-ISAPI-4.0_64bit</td></tr> 
+    <tr><th>Error Code</th><td>0x00000000</td></tr> 
+     
+   </table> 
+  </div> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Requested URL</th><td>http://ws.correios.com.br:80/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&amp;nCdEmpresa&amp;sDsSenha&amp;sCepDestino=03808050&amp;sCepOrigem=03807120&amp;nVlAltura=2&amp;nVlLargura=11&amp;nVlDiametro=0&amp;nVlComprimento=16&amp;nVlPeso=0&amp;nCdFormato=1&amp;sCdMaoPropria=N&amp;nVlValorDeclarado=296&amp;sCdAvisoRecebimento=N&amp;StrRetorno=xml</td></tr> 
+    <tr><th>Physical Path</th><td>D:\InternetFiles\calculador\CalcPrecoPrazo.aspx</td></tr> 
+    <tr class="alt"><th>Logon Method</th><td>Not yet determined</td></tr> 
+    <tr><th>Logon User</th><td>Not yet determined</td></tr> 
+     
+   </table> 
+   <div class="clear"></div> 
+  </div> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Most likely causes:</legend> 
+  <ul> 	<li>Setting is too low.</li> 	<li>The application is taking too long for the current load.</li> </ul> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Things you can try:</legend> 
+  <ul> 	<li>Try increasing the value of the setting.</li> 	<li>Check that external resources (for example, disk, database, etc..) are performing at expected levels.</li> 	<li>Check that the application has not deadlocked.</li> </ul> 
+ </fieldset> 
+</div> 
+ 
+ 
+<div class="content-container"> 
+ <fieldset><legend>Links and More Information</legend> 
+  IIS will not allow more concurrent requests to an application than the serverRuntime@appConcurrentRequestLimit setting permits. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=503,2,0x00000000,7601">View more information &raquo;</a></p> 
+   
+ </fieldset> 
+</div> 
+</div> 
+</body> 
+</html> 
+
+                    [raw] => HTTP/1.1 503 Service Unavailable
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Sun, 14 Jan 2018 23:54:11 GMT
+Connection: close
+Content-Length: 5299
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>IIS 7.5 Detailed Error - 503.2 - Service Unavailable</title> 
+<style type="text/css"> 
+<!-- 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;background:#CBE1EF;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 40px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;padding:4px 15px 4px 10px;margin:4px 0 8px -12px;_margin-top:0px; 
+ border-top:1px solid #EDEDED;border-left:1px solid #EDEDED;border-right:1px solid #969696; 
+ border-bottom:1px solid #969696;background:#E7ECF0;font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.config_source{background:#fff5c4;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:bold;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:normal;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{background-color:#ebebeb;} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+--> 
+</style> 
+ 
+</head> 
+<body> 
+<div id="header"><h1>Server Error in Application "DEFAULT WEB SITE/CALCULADOR"</h1></div> 
+<div id="server_version"><p>Internet Information Services 7.5</p></div> 
+<div id="content"> 
+<div class="content-container"> 
+ <fieldset><legend>Error Summary</legend> 
+  <h2>HTTP Error 503.2 - Service Unavailable</h2> 
+  <h3>The serverRuntime@appConcurrentRequestLimit setting is being exceeded.</h3> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Detailed Error Information</legend> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Module</th><td>IIS Web Core</td></tr> 
+    <tr><th>Notification</th><td>BeginRequest</td></tr> 
+    <tr class="alt"><th>Handler</th><td>PageHandlerFactory-ISAPI-4.0_64bit</td></tr> 
+    <tr><th>Error Code</th><td>0x00000000</td></tr> 
+     
+   </table> 
+  </div> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Requested URL</th><td>http://ws.correios.com.br:80/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&amp;nCdEmpresa&amp;sDsSenha&amp;sCepDestino=03808050&amp;sCepOrigem=03807120&amp;nVlAltura=2&amp;nVlLargura=11&amp;nVlDiametro=0&amp;nVlComprimento=16&amp;nVlPeso=0&amp;nCdFormato=1&amp;sCdMaoPropria=N&amp;nVlValorDeclarado=296&amp;sCdAvisoRecebimento=N&amp;StrRetorno=xml</td></tr> 
+    <tr><th>Physical Path</th><td>D:\InternetFiles\calculador\CalcPrecoPrazo.aspx</td></tr> 
+    <tr class="alt"><th>Logon Method</th><td>Not yet determined</td></tr> 
+    <tr><th>Logon User</th><td>Not yet determined</td></tr> 
+     
+   </table> 
+   <div class="clear"></div> 
+  </div> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Most likely causes:</legend> 
+  <ul> 	<li>Setting is too low.</li> 	<li>The application is taking too long for the current load.</li> </ul> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><legend>Things you can try:</legend> 
+  <ul> 	<li>Try increasing the value of the setting.</li> 	<li>Check that external resources (for example, disk, database, etc..) are performing at expected levels.</li> 	<li>Check that the application has not deadlocked.</li> </ul> 
+ </fieldset> 
+</div> 
+ 
+ 
+<div class="content-container"> 
+ <fieldset><legend>Links and More Information</legend> 
+  IIS will not allow more concurrent requests to an application than the serverRuntime@appConcurrentRequestLimit setting permits. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=503,2,0x00000000,7601">View more information &raquo;</a></p> 
+   
+ </fieldset> 
+</div> 
+</div> 
+</body> 
+</html> 
+
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [cache-control] => Array
+                                        (
+                                            [0] => private
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/html; charset=utf-8
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Microsoft-IIS/7.5
+                                        )
+
+                                    [x-powered-by] => Array
+                                        (
+                                            [0] => ASP.NET
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Sun, 14 Jan 2018 23:54:11 GMT
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 5299
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 503
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=296&sCdAvisoRecebimento=N&StrRetorno=xml
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+01-14-2018 @ 22:08:16 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 22:08:16 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=226&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 22:08:45 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 18,74
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 2,64
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-14-2018 @ 22:09:10 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 22:09:10 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=296&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 22:09:20 - WP_Error: cURL error 28: Connection timed out after 10001 milliseconds
+01-14-2018 @ 22:13:49 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 22:13:49 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=293&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 22:13:49 - Error accessing the Correios WebServices: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                )
+
+        )
+
+    [body] => 
+    [response] => Array
+        (
+            [code] => 504
+            [message] => Gateway Timeout
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => 
+                    [raw] => HTTP/1.1 504 Gateway Timeout
+Connection: close
+
+
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                )
+
+                        )
+
+                    [status_code] => 504
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=293&sCdAvisoRecebimento=N&StrRetorno=xml
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+01-14-2018 @ 22:14:13 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 22:14:13 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=223&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 22:14:23 - WP_Error: cURL error 28: Connection timed out after 10001 milliseconds
+01-14-2018 @ 22:15:01 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 22:15:01 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=293&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 22:15:11 - WP_Error: cURL error 28: Connection timed out after 10002 milliseconds
+01-14-2018 @ 22:15:32 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 22:15:32 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=223&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 22:15:54 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 18,70
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 16,10
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 2,60
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+01-14-2018 @ 22:16:33 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+01-14-2018 @ 22:16:33 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=223&sCdAvisoRecebimento=N&StrRetorno=xml
+01-14-2018 @ 22:16:33 - Error accessing the Correios WebServices: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                )
+
+        )
+
+    [body] => 
+    [response] => Array
+        (
+            [code] => 504
+            [message] => Gateway Timeout
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => 
+                    [raw] => HTTP/1.1 504 Gateway Timeout
+Connection: close
+
+
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                )
+
+                        )
+
+                    [status_code] => 504
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=03808050&sCepOrigem=03807120&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=223&sCdAvisoRecebimento=N&StrRetorno=xml
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+

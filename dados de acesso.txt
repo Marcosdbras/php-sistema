@@ -1,0 +1,3 @@
+user marcosbr_admin
+pass bios@2805
+db marcosbr_dberp

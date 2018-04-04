@@ -1,0 +1,121 @@
+﻿==================================================================================================================================================================================
+*** NÃO REALIZAR UPLOAD VIA NETBEANS ***
+==================================================================================================================================================================================
+* Atualizações base de dados
+Realizar cópia dos diretórios antes de qualquer atualização
+
+* Atualização Script Página 
+cd sistema
+./upload.sh
+
+==================================================================================================================================================================================
+
+==================================================================================================================================================================================
+Pendências
+==================================================================================================================================================================================
+1) Gravar o campo idunidade no cadastro de produto
+2) Cadastro de transportadores para NFE
+3) Cadastro de cfop simplificado com icms/pis/cofins pré para nota
+4) Nota fiscal eletrônica
+5) Desabilitar backup para usuários, ou seja, habilitar backup somente para usuarios master
+6) Copiar produtos para nova base de dados
+
+
+
+
+Em Aplicaivos, ler arquivo xml do sat e gerar relatório de resumo de acordo com relatórios enviados para Fagner
+
+
+- Quando realiza o push no repositório está sumindo os arquivos anexos e dos uploads
+- Quando fatura ainda está indo o idOs ou idVenda como referência na descrição do faturamento o correto é trocar esta informação pelo iddetalhe da OS ou Venda
+- OS por cliente ainda está apresentado idOs e o correto seria apresentar iddetalhe e idusumestre
+- Na busca de número de Ordem de serviço o sistema está buscando por idOs porem deveria buscar por iddetalhe e idusumestre
+
+- Relatórios de vendas e OS não tem totalização
+- Trocar título rua para endereço em todos os cadastros
+
+
+- Fazer página de apresentação com possível anuncios
+- Fazer blog com assuntos sobre empresa
+- Apresentar numeração/id por empresa ou usuário
+- verificar inject sql
+- Falha de Segurança: Se a pessoa se logar com sua propria senha e pegar a url de outro usuário 
+  e colar na barra de endereço  a página abre para esse usuário indevido
+  Solução: Verificar no check da página view se usuário mestre é o mesmo que está no banco de dados
+  se não for deve barrar passagem
+- Exibir Campos: vlr unitário, unidade     
+- Configuração por usuário na quantidade de casas decimais tanto da quantidade quanto para o preço unitários e subtotal
+- Substituir chamada Jquery que está dentro de MAPOS pelo da pasta stylebootstrap
+- Cadastro de produtos e serviços os valores estão se apresentando com '.' no valor decimal quando na verdade deveriam se apresentar com ','
+- Produtos e serviços da OS colocar dados que identifiquem o cabeçalho da OS, tais como: Número do Protocolo e Nome do cliente.
+- Produtos da venda colocar dados que identifiquem o cabeçalho da venda, tais como: Número do Protocolo e Nome do cliente.
+- Quando pesquisa não está visualizado iddetalhe '#' e o ID deve ir para última coluna
+- Desabilitar os anexos para certos usuários
+- Somente com uma senha especial o usuário poderá habilitar backup, Anexos Arquivo e Anexos Ordem de Serviço
+- Pesquisa rápida pelo número da OS
+- Pesquisa por cliente, n.o OS e n.o Venda no lançamento financeiro
+- Criar página onde clientes do usuário do sistema possa consultar OS
+
+
+* Corrigido  
+- Auto increment está apresentando dados de todos empresas/usuários ao invés de uma só
+- Arquivos anexos na OS está com erro ao carregar
+- Colocar try catch quando anexar documento ou imagem nas OS 
+- Separar anexos por pasta de usuários mestres 
+- Alterar preço unitário na OS e na venda
+- Consulta CEP ao sair do respectivo campo
+- Cadastrar usuário mestre/dados da empresa e injetar permissão ao credenciar no sistema
+
+=====================================================================================================================================================
+Pendências NFE
+=====================================================================================================================================================
+- Só atualizar quendo existir o arquivo .sql na pasta local
+
+=====================================================================================================================================================
+Pendências DataSAC
+=====================================================================================================================================================
+- Integração com Emissor NFE
+- Alterar cadastro DataPDV no banco de dados local (Produto, Forma de pagamento, etc)
+- Verificar erro: "campo site não existe" quando utiliza o DataConfig.exe
+
+=====================================================================================================================================================
+Pendência SYSTCOM
+=====================================================================================================================================================
+- Excluir pedido e orçamento somente com senha
+- Impressão do caixa inclusive com gráfico
+
+=====================================================================================================================================================
+Obs: como sincronizar com openshift
+Preparar ambiente de sincronização
+Baixar chaver pública
+
+depois
+git add .
+git commit -m "frase"
+git push origin master
+
+Para acrescentar outros módulo 
+1)iniciar incluindo as permissões
+2)Editar o arquivo topo.php dentro de tema
+  Procurar por "sidebar-menu"
+  Incluir o módulo dentro do menu
+3) Duplicar um item da pasta view e ajustar de acordo com necessidade
+4) Duplicar e renomear o model de acordo com a necessidade
+5) Duplicar e renomear controller de acordo com a necessidade  
+6) alterar array form_validation dentro de config
+
+
+ 01/03/2017
+ Comentário: Carrega produos do fornecedor
+ fornecedores.php
+
+ Comentários: Executa carregamento de produtos do fornecedor
+ fornecedores_model.php
+
+
+ 
+=====================================================================================================================================================
+nfebase
+crt, cst, cfop, origem, 
+=====================================================================================================================================================
+=

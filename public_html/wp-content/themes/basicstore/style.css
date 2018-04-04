@@ -1,0 +1,20 @@
+/*
+Theme Name: BasicStore
+Theme URI: http://demo.theme.al/basicstore/
+Author: Theme.al
+Author URI: https://wpcodefactory.com/author/theme-al/
+Description: Basicstore is a free theme for shop owners using WooCommerce who like the bootstrap framework and want a clean design
+Version: 1.4.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: basicstore
+Tags: e-commerce, one-column, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, featured-images, full-width-template, threaded-comments, accessibility-ready, rtl-language-support, footer-widgets, theme-options
+*/
+
+/*
+As we use LESS-CSS to compile our theme styles please check the "assets/css" folder,
+also there is a "less" folder inside the "assets" folder for you to compile your styles.
+
+Anyway we reccomend that you create a Child Theme to modify our theme. Please follow this guide on how-to
+https://codex.wordpress.org/Child_Themes
+*/

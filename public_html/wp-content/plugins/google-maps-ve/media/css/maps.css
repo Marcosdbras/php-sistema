@@ -1,0 +1,93 @@
+.ve-gmap-pro-feature-info {
+    padding: 10px;
+    background: #ffd1c1;
+    border: 1px solid #f8b69f;
+    margin: 10px 0;
+}
+
+.markers-table {
+    width: 100%;
+}
+.ve-gmap-table td,
+.ve-gmap-table th {
+    padding: 5px;
+    text-align: left;
+    vertical-align: top;
+}
+.markers-table thead input[type="text"] {
+    max-width: 100%;
+    min-width: auto;
+    width: 150px;
+}
+
+.ve-gmap-markers-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.ve-tabs a:focus {
+    box-shadow: none;
+}
+.ve-gmap-markers-table thead th {
+    border-bottom: 2px solid #eee;
+}
+.ve-gmap-markers-table tbody td {
+    border-bottom: 1px solid #eee;
+}
+
+.ve-gmap-markers-table tbody tr:nth-child(odd) td {
+    
+}
+
+.ve-gmap-markers-table tbody tr:nth-child(even) td {
+    background: #f6f6f6;
+} 
+
+.ve-gmap-infowindow-title {
+    font-weight: bold;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 5px;
+    padding-bottom: 2px;
+}
+.ve-gmap-infowindow-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+}
+.ve-gmap-infowindow-table td {
+    vertical-align: top;
+    border: none;
+}
+.ve-gmap-infowindow-table td.image {
+    padding-left: 10px;
+}
+.ve-gmap-infowindow-table td.image.alone {
+    padding: 0;
+}
+.ve-gmap-infowindow {
+
+}
+
+.marker-parameters-tab-ul {
+    list-style: none;
+}
+.marker-parameters-tab-ul li {
+    font-weight: bold;
+}
+.marker-parameters-tab-ul ul.children li {
+    font-weight: normal;
+}
+.marker-parameters-tab-ul ul.children {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.entry-content img,
+.ve-gmap-wrapper img {
+    max-width: none;
+}
+
+.ve-gmap-marker-filter.map-box {
+    padding: 10px;
+    background: #eee;
+    margin: 10px 0;
+}
